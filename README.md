@@ -1,50 +1,49 @@
-# TTC Streetcar Delay Analysis Project
+# TTC Streetcar Delays
 
 ## Project Overview
 
-This project focuses on analyzing and predicting delays in the Toronto Transit Commission (TTC) streetcar system using historical delay data. The dataset, sourced from [Toronto Open Data](https://open.toronto.ca/dataset/ttc-streetcar-delay-data/), contains detailed information about delays, including their causes, durations, and locations. Our goal was to derive actionable insights, build predictive models, and identify key factors contributing to delays.
+This project focused on analyzing and predicting delays in the Toronto Transit Commission (TTC) streetcar network using historical incidents data from Jan 2014 to Oct 2024. The dataset, sourced from [Toronto Open Data](https://open.toronto.ca/dataset/ttc-streetcar-delay-data/), contains detailed data about delays, including reasons, duration, and locations. Our goal was to understand the delays, identify key factors contributing to them, and build a regression model to predict them.
 
 ## Team Members
 
 This project was a collaborative effort by a team of four data enthusiasts:
 
-- **Abdur Rehman [@adastra21](https://github.com/adastra21)**
-- **Kamad Dastmalchi [@Kamanddst](https://github.com/Kamanddst)**
-- **Mehul Patel [@mehulptech](https://github.com/mehulptech)**
-- **Oluranti Ibileye [@Rantitope](https://github.com/Rantitope)**
+- Abdur Rehman [@adastra21](https://github.com/adastra21)
+- Kamad Dastmalchi [@Kamanddst](https://github.com/Kamanddst)
+- Mehul Patel [@mehulptech](https://github.com/mehulptech)
+- Oluranti Ibileye [@Rantitope](https://github.com/Rantitope)
 
 ## Video Submissions
 
-- **[Abdur Rehman]()**
-- **[Kamad Dastmalchi]()**
-- **[Mehul Patel](https://drive.google.com/file/d/19X77LmoSs9dfkaNwa_4b8ldVDgMRkJa_/view)**
-- **[Oluranti Ibileye]()**
+- [Abdur Rehman](https://drive.google.com/file/d/1c5D1RbjaERt7I3NHatjx9ygGNRggE0uI/view?usp=drive_link)
+- [Kamad Dastmalchi]()
+- [Mehul Patel](https://drive.google.com/file/d/19X77LmoSs9dfkaNwa_4b8ldVDgMRkJa_/view)
+- [Oluranti Ibileye]()
 
 ## Objectives
 
 1. **Data Preparation and Cleaning**:
 
-   - Data Merging and preparing CSV file
-   - Handling missing values
-   - Data type conversion
-   - Outlier detection and treatment
-
+   - Merging excel files into a single CSV file
+   - Merging duplicate columns
+   
 2. **Data Preprocessing and Exploration**:
 
-   - Examine data distribution
-   - Convert date and time features into appropriate formats
+   - Data type conversion
+   - Handling missing values
+   - Cleanup and standardize columns
+
+4. **Descriptive Analysis**:
+
+   - Understand the frequency and duration of delays by route, location, and time
+   - Identify the most common incident types and their impact on delays
+
+5. **Regression Analysis**:
+
    - Engineer new features (e.g., day of week, hour of day, season)
-
-3. **Descriptive Analysis**:
-
-   - Understand the frequency and duration of delays by route, location, and time.
-   - Identify the most common incident types and their impact on delays.
-   - Examine correlations between variables (e.g., delay duration and gap time).
-
-4. **Regression Analysis**:
-
-   - Develop models to predict delay duration based on various factors.
-   - Evaluate model performance and identify key predictors of delay length.
+   - Examine correlations between variables (e.g., delay duration and gap time)
+   - Develop models to predict delay duration based on gap time, hour and day of week
+   - Evaluate model performance and identify key predictors of delays
 
 ---
 
@@ -54,7 +53,7 @@ The dataset used for this project is publicly available at [Toronto Open Data](h
 
 ---
 
-## Data Science pipeline
+## Data Science Pipeline
 
 We followed the following steps in the Data Science pipeline process, each with a separate notebook:
 
@@ -82,31 +81,29 @@ We followed the following steps in the Data Science pipeline process, each with 
 
 ---
 
-## Future Work
+## Next Steps
 
-If we had more time, we would:
-
-1. Incorporate advanced machine learning techniques like gradient boosting or neural networks for better predictions.
-2. Analyze seasonal trends or external factors (e.g., weather conditions) affecting delays.
-3. Build an interactive dashboard for monitoring and visualization of streetcar delays.
+1. Explore other modelling techniques, such as decision trees and time-series modelling
+2. Analyze seasonal trends or external factors (e.g. weather conditions) that may affect delays
+3. Build an interactive dashboard for monitoring and visualizing streetcar delays
 
 ---
 
-## Strengths Brought to the Team
+## Strengths of the Team
 
 As a team, we brought diverse skills to this project:
 
-- Strong collaboration and communication ensured smooth progress across all stages.
-- A mix of technical expertise in data cleaning, machine learning, visualization, and storytelling helped us tackle challenges effectively.
+- Strong collaboration and communication ensured smooth progress across all stages
+- A mix of technical expertise in data cleaning, machine learning, visualization, and storytelling helped us tackle challenges proactively
 - A shared passion for solving real-world problems made this project both impactful and enjoyable!
 
 ---
 
-## How to Run This Project
+## How to run this project
 
-1. Clone this repository to your local machine.
+1. Clone this repository to your local machine
 2. Install required dependencies
-3. Run the Jupyter Notebook provided in the repository to explore the analysis and insights.
+3. Run the Jupyter Notebook provided in the repository to explore the analysis and insights
 
 ## References
 
