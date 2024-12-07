@@ -5,7 +5,7 @@
 This project focused on analyzing and predicting delays in the Toronto Transit Commission (TTC) streetcar network using historical incidents data from Jan 2014 to Oct 2024. The dataset, sourced from [Toronto Open Data](https://open.toronto.ca/dataset/ttc-streetcar-delay-data/), contains detailed data about delays, including reasons, duration, and locations. Our goal was to understand the delays, identify key factors contributing to them, and build a regression model to predict them.
 
 ![TTC Streetcar Delay](https://nowtoronto.com/wp-content/uploads/2023/11/Untitled-design-67-1-2048x1044.webp)
-\_Image: TTC riders frustrated over non-stop streetcar delays
+[Image]: TTC riders frustrated over non-stop streetcar delays (https://nowtoronto.com/news/ttc-riders-frustrated-over-non-stop-streetcar-delays-on-king-street/)
 
 ## Team Members
 
