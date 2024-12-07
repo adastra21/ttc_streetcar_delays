@@ -72,6 +72,8 @@ We followed the following steps in the Data Science pipeline process, each with 
 - The **501 route** experienced the highest number of delays, with an average delay duration of 13.37 minutes.
 - **Dundas West Station** was identified as a hotspot for delays with over 3,000 incidents recorded.
 - Fridays had the highest number of incidents, but Sundays had the longest average delays.
+- **Diversions** and **Overheads** caused the most incidents
+- More than 30% of Incidents were caused by **Mechanical failures**
 
 ### Regression Analysis
 
