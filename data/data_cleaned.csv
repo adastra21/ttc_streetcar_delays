@@ -1711,7 +1711,7 @@ dt,date,time,day,route,location,incident,delay,gap,direction,vehicle
 2014-03-29 15:25:00,2014-03-29,15:25:00,Saturday,509,cne loop,Mechanical,4.0,8.0,E,7559
 2014-03-29 16:30:00,2014-03-29,16:30:00,Saturday,505,dundas west stn to broadview stn,General Delay,15.0,10.0,,
 2014-03-29 20:30:00,2014-03-29,20:30:00,Saturday,504,king and sherborne,Investigation,18.0,24.0,W,4099
-2014-03-29 22:38:00,2014-03-29,22:38:00,Saturday,501,john and queen,Investigation,9.0,18.0,,4221
+2014-03-29 22:38:00,2014-03-29,22:38:00,Saturday,501,john and queen,Investigation,9.0,18.0,E,4221
 2014-03-30 00:07:00,2014-03-30,00:07:00,Sunday,18,king and john,Investigation,7.0,17.0,W,4017
 2014-03-30 00:15:00,2014-03-30,00:15:00,Sunday,511,fleet  fort yprk,Investigation,5.0,10.0,W,4048
 2014-03-30 00:22:00,2014-03-30,00:22:00,Sunday,501,queen  university,Investigation,33.0,42.0,E,4213
@@ -3375,7 +3375,7 @@ dt,date,time,day,route,location,incident,delay,gap,direction,vehicle
 2014-05-14 15:55:00,2014-05-14,15:55:00,Wednesday,501,queensway at roncesvalles,Held By,16.0,26.0,W,4251
 2014-05-14 16:00:00,2014-05-14,16:00:00,Wednesday,512,stclair route,General Delay,12.0,6.0,,
 2014-05-14 16:02:00,2014-05-14,16:02:00,Wednesday,501,king and spadina,Mechanical,19.0,24.0,W,4211
-2014-05-14 16:39:00,2014-05-14,16:39:00,Wednesday,501,queensway and roncesvalles,Mechanical,6.0,12.0,,4233
+2014-05-14 16:39:00,2014-05-14,16:39:00,Wednesday,501,queensway and roncesvalles,Mechanical,6.0,12.0,E,4233
 2014-05-14 18:11:00,2014-05-14,18:11:00,Wednesday,512,st clair west to gunns loop,Mechanical,3.0,7.0,W,5152
 2014-05-14 18:50:00,2014-05-14,18:50:00,Wednesday,505,dundas and broadview,Investigation,8.0,13.0,E,4103
 2014-05-14 19:00:00,2014-05-14,19:00:00,Wednesday,501,gerrard and coxwell,Mechanical,13.0,18.0,W,4218
@@ -3622,7 +3622,7 @@ dt,date,time,day,route,location,incident,delay,gap,direction,vehicle
 2014-05-22 08:55:00,2014-05-22,08:55:00,Thursday,510,spadina stn,Mechanical,4.0,8.0,S,4073
 2014-05-22 08:58:00,2014-05-22,08:58:00,Thursday,505,dundas and shaw,Investigation,23.0,28.0,E,4110
 2014-05-22 09:03:00,2014-05-22,09:03:00,Thursday,509,cne eastern loop,Utilized Off Route,3.0,6.0,E,9405
-2014-05-22 09:09:00,2014-05-22,09:09:00,Thursday,505,dundas and jarvis,Held By,5.0,10.0,,4019
+2014-05-22 09:09:00,2014-05-22,09:09:00,Thursday,505,dundas and jarvis,Held By,5.0,10.0,E,4019
 2014-05-22 09:10:00,2014-05-22,09:10:00,Thursday,509,cne eastern loop,Utilized Off Route,3.0,6.0,E,8207
 2014-05-22 10:01:00,2014-05-22,10:01:00,Thursday,506,carlton and sherbourne,Investigation,5.0,10.0,W,4013
 2014-05-22 11:29:00,2014-05-22,11:29:00,Thursday,502,church and adelaide,Mechanical,14.0,28.0,E,7822
@@ -10739,7 +10739,7 @@ dt,date,time,day,route,location,incident,delay,gap,direction,vehicle
 2014-12-19 09:00:00,2014-12-19,09:00:00,Friday,506,lansdowne loop,Held By,15.0,20.0,E,4196
 2014-12-19 09:11:00,2014-12-19,09:11:00,Friday,501,queen and degrassi,Held By,52.0,58.0,W,4223
 2014-12-19 10:00:00,2014-12-19,10:00:00,Friday,504,king and shaw,Investigation,2.0,6.0,W,4248
-2014-12-19 10:08:00,2014-12-19,10:08:00,Friday,505,king and shaw,Investigation,2.0,5.0,,4248
+2014-12-19 10:08:00,2014-12-19,10:08:00,Friday,505,king and shaw,Investigation,2.0,5.0,S,4248
 2014-12-19 10:36:00,2014-12-19,10:36:00,Friday,501,queen and ossington,Held By,13.0,19.0,E,4219
 2014-12-19 11:04:00,2014-12-19,11:04:00,Friday,504,roncesvalles and fern avenue,Investigation,4.0,8.0,E,4071
 2014-12-19 11:45:00,2014-12-19,11:45:00,Friday,502,queen and mccaul,Investigation,12.0,24.0,W,4004
@@ -14477,7 +14477,7 @@ dt,date,time,day,route,location,incident,delay,gap,direction,vehicle
 2015-03-16 03:39:00,2015-03-16,03:39:00,Monday,504,dundas west stn,Held By,7.0,11.0,E,4040
 2015-03-16 04:59:00,2015-03-16,04:59:00,Monday,504,queen and river,Mechanical,39.0,42.0,E,4087
 2015-03-16 05:27:00,2015-03-16,05:27:00,Monday,501,queen at connaught,Late Leaving Garage,10.0,20.0,E,4248
-2015-03-16 05:30:00,2015-03-16,05:30:00,Monday,511,bathurst and ulster,Emergency Services,95.0,102.0,,4061
+2015-03-16 05:30:00,2015-03-16,05:30:00,Monday,511,bathurst and ulster,Emergency Services,95.0,102.0,S,4061
 2015-03-16 05:32:00,2015-03-16,05:32:00,Monday,512,bathurst and st clair,Emergency Services,91.0,94.0,N,4085
 2015-03-16 05:39:00,2015-03-16,05:39:00,Monday,506,coxwell at lower gerrard,Late Leaving Garage,7.0,21.0,W,4135
 2015-03-16 05:49:00,2015-03-16,05:49:00,Monday,506,lower gerrard at coxwell,Late Leaving Garage,6.0,10.0,E,4092
@@ -17795,7 +17795,7 @@ dt,date,time,day,route,location,incident,delay,gap,direction,vehicle
 2015-07-01 12:42:00,2015-07-01,12:42:00,Wednesday,505,dundas street west and university avenue,General Delay,38.0,44.0,,4120
 2015-07-01 13:13:00,2015-07-01,13:13:00,Wednesday,501,queen and yonge,Mechanical,5.0,10.0,W,4207
 2015-07-01 13:27:00,2015-07-01,13:27:00,Wednesday,501,queen and spadina,Held By,9.0,15.0,,4210
-2015-07-01 13:38:00,2015-07-01,13:38:00,Wednesday,501,queen and lee,Investigation,33.0,38.0,,4234
+2015-07-01 13:38:00,2015-07-01,13:38:00,Wednesday,501,queen and lee,Investigation,33.0,38.0,E,4234
 2015-07-01 13:47:00,2015-07-01,13:47:00,Wednesday,510,spadina  harbord,Investigation,16.0,19.0,N,4406
 2015-07-01 14:24:00,2015-07-01,14:24:00,Wednesday,501,queen and sumach,Held By,9.0,14.0,,4239
 2015-07-01 14:34:00,2015-07-01,14:34:00,Wednesday,501,kingston rd loop,Mechanical,5.0,10.0,W,4230
@@ -18059,7 +18059,7 @@ dt,date,time,day,route,location,incident,delay,gap,direction,vehicle
 2015-07-11 14:15:00,2015-07-11,14:15:00,Saturday,506,coxwell and gerrard,Mechanical,6.0,12.0,W,4091
 2015-07-11 15:08:00,2015-07-11,15:08:00,Saturday,511,adelaide,Held By,20.0,25.0,S,4406
 2015-07-11 15:14:00,2015-07-11,15:14:00,Saturday,501,neville park,Mechanical,6.0,12.0,W,4210
-2015-07-11 15:45:00,2015-07-11,15:45:00,Saturday,511,adelaide,Held By,20.0,25.0,,4406
+2015-07-11 15:45:00,2015-07-11,15:45:00,Saturday,511,adelaide,Held By,20.0,25.0,S,4406
 2015-07-11 16:19:00,2015-07-11,16:19:00,Saturday,501,queen at duffferin,Mechanical,12.0,24.0,W,4139
 2015-07-11 17:37:00,2015-07-11,17:37:00,Saturday,501,queen at roncesvalles,Mechanical,6.0,12.0,W,4219
 2015-07-11 18:02:00,2015-07-11,18:02:00,Saturday,511,queens quay  spadina,Investigation,3.0,6.0,W,4189
@@ -37827,7 +37827,7 @@ dt,date,time,day,route,location,incident,delay,gap,direction,vehicle
 2017-01-14 22:30:00,2017-01-14,22:30:00,Saturday,504,broadview station loop to dundas west station loop,General Delay,5.0,10.0,,
 2017-01-14 23:00:00,2017-01-14,23:00:00,Saturday,501,queen st,General Delay,0.0,0.0,,
 2017-01-15 00:03:00,2017-01-15,00:03:00,Sunday,506,main station,Mechanical,1.0,20.0,E,4027
-2017-01-15 05:32:00,2017-01-15,05:32:00,Sunday,301,queen and bay,Investigation,9.0,18.0,,4169
+2017-01-15 05:32:00,2017-01-15,05:32:00,Sunday,301,queen and bay,Investigation,9.0,18.0,E,4169
 2017-01-15 09:25:00,2017-01-15,09:25:00,Sunday,510,king and spadina,Late Leaving Garage,5.0,10.0,N,4430
 2017-01-15 09:33:00,2017-01-15,09:33:00,Sunday,510,king and spadina,Late Leaving Garage,5.0,10.0,N,4408
 2017-01-15 09:38:00,2017-01-15,09:38:00,Sunday,505,dundas  church,Mechanical,12.0,20.0,W,4043
@@ -41920,7 +41920,7 @@ dt,date,time,day,route,location,incident,delay,gap,direction,vehicle
 2017-05-02 09:56:00,2017-05-02,09:56:00,Tuesday,501,springhurst loop,Utilized Off Route,6.0,12.0,E,8046
 2017-05-02 10:04:00,2017-05-02,10:04:00,Tuesday,501,queen and carlaw,Mechanical,5.0,11.0,W,4241
 2017-05-02 10:22:00,2017-05-02,10:22:00,Tuesday,511,bathurst at college,Investigation,4.0,7.0,N,1340
-2017-05-02 10:32:00,2017-05-02,10:32:00,Tuesday,501,springhurst loop,Utilized Off Route,6.0,12.0,,7953
+2017-05-02 10:32:00,2017-05-02,10:32:00,Tuesday,501,springhurst loop,Utilized Off Route,6.0,12.0,E,7953
 2017-05-02 10:50:00,2017-05-02,10:50:00,Tuesday,501,springhurst loop,Utilized Off Route,6.0,12.0,W,1572
 2017-05-02 11:27:00,2017-05-02,11:27:00,Tuesday,502,queen and simcoe,Mechanical,10.0,20.0,E,7791
 2017-05-02 11:41:00,2017-05-02,11:41:00,Tuesday,501,longbranch loop,Mechanical,6.0,12.0,W,1026
@@ -44064,7 +44064,7 @@ dt,date,time,day,route,location,incident,delay,gap,direction,vehicle
 2017-06-25 11:40:00,2017-06-25,11:40:00,Sunday,505,howard park ave,Mechanical,10.0,17.0,E,4183
 2017-06-25 12:39:00,2017-06-25,12:39:00,Sunday,501,queensway garage,Mechanical,6.0,12.0,W,8031
 2017-06-25 13:15:00,2017-06-25,13:15:00,Sunday,505,church and college,Mechanical,10.0,17.0,W,4167
-2017-06-25 13:17:00,2017-06-25,13:17:00,Sunday,506,hpark to main st,General Delay,20.0,15.0,,
+2017-06-25 13:17:00,2017-06-25,13:17:00,Sunday,506,hpark to main st,General Delay,20.0,15.0,E,
 2017-06-25 13:44:00,2017-06-25,13:44:00,Sunday,504,trinity  king st east,Mechanical,6.0,12.0,E,4184
 2017-06-25 13:52:00,2017-06-25,13:52:00,Sunday,501,neville loop,Mechanical,6.0,12.0,W,7876
 2017-06-25 13:57:00,2017-06-25,13:57:00,Sunday,501,neville loop,Utilized Off Route,6.0,12.0,W,7871
@@ -49301,7 +49301,7 @@ dt,date,time,day,route,location,incident,delay,gap,direction,vehicle
 2017-11-30 16:33:00,2017-11-30,16:33:00,Thursday,501,longbranch loop,Mechanical,6.0,12.0,E,7907
 2017-11-30 17:01:00,2017-11-30,17:01:00,Thursday,506,gerrard and bvrodview,Held By,4.0,10.0,E,4132
 2017-11-30 17:03:00,2017-11-30,17:03:00,Thursday,502,yonge st south of queen,Investigation,8.0,16.0,S,8157
-2017-11-30 17:30:00,2017-11-30,17:30:00,Thursday,506,high park to main st both ways,General Delay,10.0,15.0,,
+2017-11-30 17:30:00,2017-11-30,17:30:00,Thursday,506,high park to main st both ways,General Delay,10.0,15.0,E,
 2017-11-30 17:33:00,2017-11-30,17:33:00,Thursday,501,queen and conaught,Mechanical,6.0,12.0,E,4247
 2017-11-30 17:50:00,2017-11-30,17:50:00,Thursday,502,kingston rd and queen,Investigation,8.0,16.0,S,7721
 2017-11-30 17:58:00,2017-11-30,17:58:00,Thursday,501,queen and bay,Investigation,6.0,12.0,E,4202
@@ -55639,7 +55639,7 @@ dt,date,time,day,route,location,incident,delay,gap,direction,vehicle
 2018-04-16 03:51:00,2018-04-16,03:51:00,Monday,301,queen and roncy,Mechanical,30.0,60.0,E,8037
 2018-04-16 04:05:00,2018-04-16,04:05:00,Monday,304,king  bay,Held By,13.0,43.0,W,4468
 2018-04-16 04:48:00,2018-04-16,04:48:00,Monday,501,russell yard,General Delay,54.0,60.0,E,4050
-2018-04-16 05:00:00,2018-04-16,05:00:00,Monday,512,gunn loop to st clair station both ways,General Delay,15.0,10.0,,
+2018-04-16 05:00:00,2018-04-16,05:00:00,Monday,512,gunn loop to st clair station both ways,General Delay,15.0,10.0,E,
 2018-04-16 05:15:00,2018-04-16,05:15:00,Monday,511,king and bathurst,Overhead - Pantograph,9.0,18.0,W,4032
 2018-04-16 05:28:00,2018-04-16,05:28:00,Monday,501,queen and connaught,Overhead - Pantograph,6.0,12.0,E,4217
 2018-04-16 05:31:00,2018-04-16,05:31:00,Monday,504,queen and broadview,Overhead - Pantograph,4.0,8.0,W,4214
@@ -58862,7 +58862,7 @@ dt,date,time,day,route,location,incident,delay,gap,direction,vehicle
 2018-06-18 12:54:00,2018-06-18,12:54:00,Monday,511,qq and spadina,Investigation,7.0,14.0,N,4190
 2018-06-18 13:10:00,2018-06-18,13:10:00,Monday,501,queen and connaught,Mechanical,6.0,12.0,E,4065
 2018-06-18 13:17:00,2018-06-18,13:17:00,Monday,512,tweedsmuir and st cliar,Mechanical,4.0,7.0,E,4185
-2018-06-18 14:00:00,2018-06-18,14:00:00,Monday,511,bathurst st to cne,General Delay,9.0,18.0,,
+2018-06-18 14:00:00,2018-06-18,14:00:00,Monday,511,bathurst st to cne,General Delay,9.0,18.0,N,
 2018-06-18 14:33:00,2018-06-18,14:33:00,Monday,512,st clair and tweedsmuir,Mechanical,10.0,13.0,E,4041
 2018-06-18 15:15:00,2018-06-18,15:15:00,Monday,512,st clair and norhtcliffe,Mechanical,6.0,9.0,W,4041
 2018-06-18 15:18:00,2018-06-18,15:18:00,Monday,504,queen and broadview,Investigation,10.0,15.0,W,4430
@@ -59118,7 +59118,7 @@ dt,date,time,day,route,location,incident,delay,gap,direction,vehicle
 2018-06-23 10:45:00,2018-06-23,10:45:00,Saturday,505,college and young,Mechanical,5.0,10.0,E,
 2018-06-23 11:04:00,2018-06-23,11:04:00,Saturday,511,fleet and bathurst,Held By,5.0,11.0,N,4014
 2018-06-23 11:54:00,2018-06-23,11:54:00,Saturday,505,dundas and brock,Investigation,5.0,10.0,W,7779
-2018-06-23 12:30:00,2018-06-23,12:30:00,Saturday,506,bay to parliament,General Delay,240.0,250.0,,
+2018-06-23 12:30:00,2018-06-23,12:30:00,Saturday,506,bay to parliament,General Delay,240.0,250.0,E,
 2018-06-23 12:38:00,2018-06-23,12:38:00,Saturday,501,parkside and the queensway,Mechanical,5.0,10.0,E,4133
 2018-06-23 13:02:00,2018-06-23,13:02:00,Saturday,510,spadina station,Investigation,4.0,8.0,S,4444
 2018-06-23 13:30:00,2018-06-23,13:30:00,Saturday,505,spadina station,Mechanical,4.0,8.0,W,4461
@@ -65059,7 +65059,7 @@ dt,date,time,day,route,location,incident,delay,gap,direction,vehicle
 2018-11-15 20:46:00,2018-11-15,20:46:00,Thursday,501,lakeshoreparklawn,Investigation,9.0,19.0,E,4089
 2018-11-15 21:00:00,2018-11-15,21:00:00,Thursday,501,connaught,General Delay,5.0,10.0,E,4462
 2018-11-15 21:03:00,2018-11-15,21:03:00,Thursday,501,queenwoodbine,Mechanical,5.0,9.0,W,4091
-2018-11-15 21:05:00,2018-11-15,21:05:00,Thursday,511,bathurst station and cne,General Delay,15.0,10.0,,
+2018-11-15 21:05:00,2018-11-15,21:05:00,Thursday,511,bathurst station and cne,General Delay,15.0,10.0,N,
 2018-11-15 23:32:00,2018-11-15,23:32:00,Thursday,506,coxwell and gerrard,Mechanical,6.0,12.0,W,4180
 2018-11-15 23:56:00,2018-11-15,23:56:00,Thursday,504,king and spadina,Mechanical,8.0,16.0,E,4441
 2018-11-16 01:13:00,2018-11-16,01:13:00,Friday,301,leslie,Mechanical,9.0,18.0,W,4462
@@ -65610,7 +65610,7 @@ dt,date,time,day,route,location,incident,delay,gap,direction,vehicle
 2018-11-29 15:08:00,2018-11-29,15:08:00,Thursday,504,leslie barns,Late Leaving Garage,4.0,8.0,W,4442
 2018-11-29 15:31:00,2018-11-29,15:31:00,Thursday,512,sc west stn,Mechanical,12.0,16.0,E,4459
 2018-11-29 15:54:00,2018-11-29,15:54:00,Thursday,510,spadina and harbord,Investigation,7.0,10.0,S,4412
-2018-11-29 16:00:00,2018-11-29,16:00:00,Thursday,506,hpark to main,General Delay,10.0,15.0,,
+2018-11-29 16:00:00,2018-11-29,16:00:00,Thursday,506,hpark to main,General Delay,10.0,15.0,E,
 2018-11-29 16:06:00,2018-11-29,16:06:00,Thursday,510,spadina and dundas,Mechanical,5.0,10.0,S,4491
 2018-11-29 16:06:00,2018-11-29,16:06:00,Thursday,506,dufferin and college,Held By,25.0,30.0,W,4050
 2018-11-29 16:10:00,2018-11-29,16:10:00,Thursday,506,dufferin and college,Held By,15.0,21.0,E,4065
@@ -66933,7 +66933,7 @@ dt,date,time,day,route,location,incident,delay,gap,direction,vehicle
 2019-01-10 16:54:00,2019-01-10,16:54:00,Thursday,506,cne loop,Mechanical,4.0,8.0,S,1120
 2019-01-10 18:03:00,2019-01-10,18:03:00,Thursday,501,humber loop,Mechanical,4.0,8.0,E,4051
 2019-01-10 18:12:00,2019-01-10,18:12:00,Thursday,501,queenbroadview,Mechanical,4.0,8.0,W,4192
-2019-01-10 18:52:00,2019-01-10,18:52:00,Thursday,504,dundas w to brodview st both ways,General Delay,6.0,12.0,,
+2019-01-10 18:52:00,2019-01-10,18:52:00,Thursday,504,dundas w to brodview st both ways,General Delay,6.0,12.0,E,
 2019-01-10 19:12:00,2019-01-10,19:12:00,Thursday,512,st clair and bathurst,Mechanical,4.0,8.0,E,4432
 2019-01-10 19:36:00,2019-01-10,19:36:00,Thursday,506,st george and college,Mechanical,7.0,13.0,W,4186
 2019-01-10 20:56:00,2019-01-10,20:56:00,Thursday,501,neville loop,Held By,14.0,18.0,E,4155
@@ -67232,7 +67232,7 @@ dt,date,time,day,route,location,incident,delay,gap,direction,vehicle
 2019-01-18 15:18:00,2019-01-18,15:18:00,Friday,501,queensimcoe,Mechanical,4.0,8.0,W,4249
 2019-01-18 16:10:00,2019-01-18,16:10:00,Friday,705,queen st e and leslie st,Mechanical,4.0,8.0,W,4499
 2019-01-18 16:47:00,2019-01-18,16:47:00,Friday,511,bathurst and queen,Held By,9.0,15.0,S,1555
-2019-01-18 18:38:00,2019-01-18,18:38:00,Friday,504,dundas w st to brodview st,General Delay,6.0,12.0,,
+2019-01-18 18:38:00,2019-01-18,18:38:00,Friday,504,dundas w st to brodview st,General Delay,6.0,12.0,E,
 2019-01-18 19:02:00,2019-01-18,19:02:00,Friday,501,neville park loop,Mechanical,3.0,6.0,W,4108
 2019-01-18 20:01:00,2019-01-18,20:01:00,Friday,506,gerrard at leslie,Diversion,52.0,59.0,E,4030
 2019-01-18 20:09:00,2019-01-18,20:09:00,Friday,505,lansdowne an dundas,Investigation,5.0,10.0,W,8105
@@ -67518,7 +67518,7 @@ dt,date,time,day,route,location,incident,delay,gap,direction,vehicle
 2019-01-22 16:12:00,2019-01-22,16:12:00,Tuesday,505,erindale and broadview,Mechanical,4.0,8.0,E,8596
 2019-01-22 16:32:00,2019-01-22,16:32:00,Tuesday,501,lakeshore30th street,Mechanical,10.0,20.0,W,4145
 2019-01-22 17:01:00,2019-01-22,17:01:00,Tuesday,510,spadina and queens quay,Mechanical,4.0,8.0,S,4444
-2019-01-22 17:20:00,2019-01-22,17:20:00,Tuesday,504,dundas w st to brodview st both ways,General Delay,8.0,12.0,,
+2019-01-22 17:20:00,2019-01-22,17:20:00,Tuesday,504,dundas w st to brodview st both ways,General Delay,8.0,12.0,E,
 2019-01-22 17:32:00,2019-01-22,17:32:00,Tuesday,511,sne loop,Investigation,5.0,10.0,N,1417
 2019-01-22 18:39:00,2019-01-22,18:39:00,Tuesday,509,bathurst and fleet,Investigation,112.0,118.0,E,4461
 2019-01-22 18:39:00,2019-01-22,18:39:00,Tuesday,509,cne loop,Emergency Services,13.0,20.0,E,4572
@@ -67557,7 +67557,7 @@ dt,date,time,day,route,location,incident,delay,gap,direction,vehicle
 2019-01-23 16:04:00,2019-01-23,16:04:00,Wednesday,506,gerrard and woodbine,Mechanical,6.0,12.0,W,4186
 2019-01-23 16:10:00,2019-01-23,16:10:00,Wednesday,705,queen st e and leslie st,Mechanical,4.0,8.0,W,4433
 2019-01-23 17:23:00,2019-01-23,17:23:00,Wednesday,506,main station,Mechanical,6.0,12.0,W,4050
-2019-01-23 17:50:00,2019-01-23,17:50:00,Wednesday,504,dundas w station to brodvie station,General Delay,6.0,12.0,,
+2019-01-23 17:50:00,2019-01-23,17:50:00,Wednesday,504,dundas w station to brodvie station,General Delay,6.0,12.0,E,
 2019-01-23 18:23:00,2019-01-23,18:23:00,Wednesday,512,st clair west stn,Investigation,6.0,11.0,W,4472
 2019-01-23 19:31:00,2019-01-23,19:31:00,Wednesday,511,bathurst and lennox,Investigation,5.0,10.0,S,1549
 2019-01-23 19:55:00,2019-01-23,19:55:00,Wednesday,511,fleet and bathurst,General Delay,12.0,17.0,S,1146
@@ -67687,7 +67687,7 @@ dt,date,time,day,route,location,incident,delay,gap,direction,vehicle
 2019-01-25 16:55:00,2019-01-25,16:55:00,Friday,501,queenlansdowne,Mechanical,4.0,8.0,W,4086
 2019-01-25 17:02:00,2019-01-25,17:02:00,Friday,501,humber loop,Investigation,84.0,88.0,E,4075
 2019-01-25 17:27:00,2019-01-25,17:27:00,Friday,512,st clair and lansdowne,Overhead - Pantograph,4.0,8.0,E,4429
-2019-01-25 17:47:00,2019-01-25,17:47:00,Friday,504,dundas w station to brodview station,General Delay,8.0,16.0,,
+2019-01-25 17:47:00,2019-01-25,17:47:00,Friday,504,dundas w station to brodview station,General Delay,8.0,16.0,E,
 2019-01-25 17:53:00,2019-01-25,17:53:00,Friday,501,queenbroadview,Mechanical,4.0,8.0,W,4012
 2019-01-25 18:09:00,2019-01-25,18:09:00,Friday,512,st clair and gunns,Mechanical,4.0,8.0,E,4432
 2019-01-25 18:24:00,2019-01-25,18:24:00,Friday,512,st clair and lansdowne,Mechanical,4.0,8.0,E,4432
@@ -67948,7 +67948,7 @@ dt,date,time,day,route,location,incident,delay,gap,direction,vehicle
 2019-01-29 13:07:00,2019-01-29,13:07:00,Tuesday,505,yonge and dundas,Investigation,4.0,8.0,E,8523
 2019-01-29 13:18:00,2019-01-29,13:18:00,Tuesday,504,brodview and wolfrey,Held By,40.0,46.0,N,4493
 2019-01-29 13:59:00,2019-01-29,13:59:00,Tuesday,504,king  spadina,Emergency Services,6.0,12.0,E,4416
-2019-01-29 14:46:00,2019-01-29,14:46:00,Tuesday,504,dundas w to brodvies station,General Delay,15.0,25.0,,
+2019-01-29 14:46:00,2019-01-29,14:46:00,Tuesday,504,dundas w to brodvies station,General Delay,15.0,25.0,E,
 2019-01-29 14:55:00,2019-01-29,14:55:00,Tuesday,504,roncesvalles  pearson,Held By,11.0,17.0,S,4474
 2019-01-29 14:56:00,2019-01-29,14:56:00,Tuesday,504,brodview and withorow,Held By,44.0,50.0,S,4481
 2019-01-29 15:00:00,2019-01-29,15:00:00,Tuesday,510,spsp to union,General Delay,4.0,8.0,,4479
@@ -68127,7 +68127,7 @@ dt,date,time,day,route,location,incident,delay,gap,direction,vehicle
 2019-01-31 14:29:00,2019-01-31,14:29:00,Thursday,506,roncy and howard park,Held By,14.0,20.0,E,4191
 2019-01-31 14:41:00,2019-01-31,14:41:00,Thursday,506,broadview and gerrard,Investigation,44.0,50.0,E,4074
 2019-01-31 14:43:00,2019-01-31,14:43:00,Thursday,504,roncesvalles  marion,Held By,19.0,26.0,S,4515
-2019-01-31 14:49:00,2019-01-31,14:49:00,Thursday,504,dundas w st to brodview station,General Delay,10.0,17.0,,
+2019-01-31 14:49:00,2019-01-31,14:49:00,Thursday,504,dundas w st to brodview station,General Delay,10.0,17.0,E,
 2019-01-31 15:08:00,2019-01-31,15:08:00,Thursday,506,ossington college,Investigation,38.0,44.0,E,4176
 2019-01-31 15:22:00,2019-01-31,15:22:00,Thursday,506,gerrard and de garassi,Held By,22.0,28.0,W,4034
 2019-01-31 15:28:00,2019-01-31,15:28:00,Thursday,805,stclair and oakwood,Investigation,1.0,1.0,W,1740
@@ -69273,7 +69273,7 @@ dt,date,time,day,route,location,incident,delay,gap,direction,vehicle
 2019-02-23 13:00:00,2019-02-23,13:00:00,Saturday,501,queen and connaught,Mechanical,5.0,10.0,E,4034
 2019-02-23 13:01:00,2019-02-23,13:01:00,Saturday,511,bathurst station to exhibition loop,General Delay,10.0,20.0,,1503
 2019-02-23 13:09:00,2019-02-23,13:09:00,Saturday,511,bathurst and queen,Mechanical,5.0,10.0,N,1109
-2019-02-23 13:30:00,2019-02-23,13:30:00,Saturday,512,st calair st to gunns both ways,General Delay,7.0,14.0,,
+2019-02-23 13:30:00,2019-02-23,13:30:00,Saturday,512,st calair st to gunns both ways,General Delay,7.0,14.0,E,
 2019-02-23 13:45:00,2019-02-23,13:45:00,Saturday,501,broadview to neville loop,General Delay,5.0,10.0,E,4517
 2019-02-23 14:00:00,2019-02-23,14:00:00,Saturday,504,dundas west stn to bathurst,General Delay,30.0,15.0,,
 2019-02-23 14:24:00,2019-02-23,14:24:00,Saturday,501,brock and queen,Investigation,5.0,10.0,W,4050
@@ -70602,7 +70602,7 @@ dt,date,time,day,route,location,incident,delay,gap,direction,vehicle
 2019-03-30 05:31:00,2019-03-30,05:31:00,Saturday,504,dundas w station,Mechanical,10.0,20.0,E,4513
 2019-03-30 05:33:00,2019-03-30,05:33:00,Saturday,506,queencoxwell,Late Leaving Garage,0.0,0.0,E,4180
 2019-03-30 05:55:00,2019-03-30,05:55:00,Saturday,506,coxwelllower gerrard,Late Leaving Garage,1.0,15.0,E,4081
-2019-03-30 06:17:00,2019-03-30,06:17:00,Saturday,504,queen and king,Mechanical,2.0,7.0,,
+2019-03-30 06:17:00,2019-03-30,06:17:00,Saturday,504,queen and king,Mechanical,2.0,7.0,E,
 2019-03-30 06:45:00,2019-03-30,06:45:00,Saturday,506,main station,Mechanical,8.0,16.0,W,4048
 2019-03-30 07:40:00,2019-03-30,07:40:00,Saturday,506,gerrardcoxwell,Mechanical,14.0,22.0,E,4074
 2019-03-30 07:45:00,2019-03-30,07:45:00,Saturday,501,queenkingston rd,Mechanical,6.0,12.0,W,4176
@@ -73907,7 +73907,7 @@ dt,date,time,day,route,location,incident,delay,gap,direction,vehicle
 2019-07-20 04:59:00,2019-07-20,04:59:00,Saturday,501,queen st e and leslie st,Mechanical,0.0,0.0,E,4422
 2019-07-20 05:01:00,2019-07-20,05:01:00,Saturday,501,queen st e at leslie st,Mechanical,3.0,11.0,W,4472
 2019-07-20 05:48:00,2019-07-20,05:48:00,Saturday,509,exhibition loop,Mechanical,1.0,1.0,E,4481
-2019-07-20 05:52:00,2019-07-20,05:52:00,Saturday,510,qqspadina,Utilized Off Route,15.0,30.0,,4460
+2019-07-20 05:52:00,2019-07-20,05:52:00,Saturday,510,qqspadina,Utilized Off Route,15.0,30.0,N,4460
 2019-07-20 06:32:00,2019-07-20,06:32:00,Saturday,505,broadview station,Mechanical,9.0,12.0,W,8475
 2019-07-20 07:15:00,2019-07-20,07:15:00,Saturday,506,broadview and gerrard,Mechanical,7.0,14.0,E,4079
 2019-07-20 07:29:00,2019-07-20,07:29:00,Saturday,505,dundas and bay,Diversion,15.0,20.0,W,9232
@@ -78524,7 +78524,7 @@ dt,date,time,day,route,location,incident,delay,gap,direction,vehicle
 2020-01-08 04:59:00,2020-01-08,04:59:00,Wednesday,506,coxwell at lower gerrard,Late Leaving Garage,5.0,13.0,E,4436
 2020-01-08 04:59:00,2020-01-08,04:59:00,Wednesday,511,bathurst and king,Late Leaving Garage,5.0,8.0,W,4534
 2020-01-08 05:00:00,2020-01-08,05:00:00,Wednesday,512,bathurst and stclair,Late Leaving Garage,4.0,7.0,W,4469
-2020-01-08 05:01:00,2020-01-08,05:01:00,Wednesday,506,coxwell and lower gerrard,Late Leaving Garage,3.0,8.0,,4583
+2020-01-08 05:01:00,2020-01-08,05:01:00,Wednesday,506,coxwell and lower gerrard,Late Leaving Garage,3.0,8.0,E,4583
 2020-01-08 05:32:00,2020-01-08,05:32:00,Wednesday,501,neville loop,Mechanical,7.0,14.0,W,4447
 2020-01-08 06:24:00,2020-01-08,06:24:00,Wednesday,501,queenuniversity,Investigation,7.0,14.0,E,4418
 2020-01-08 06:41:00,2020-01-08,06:41:00,Wednesday,506,church and carlton,Mechanical,17.0,25.0,W,4574
@@ -80974,7 +80974,7 @@ dt,date,time,day,route,location,incident,delay,gap,direction,vehicle
 2020-04-18 00:34:00,2020-04-18,00:34:00,Saturday,505,dundas west stn,Emergency Services,10.0,20.0,E,3124
 2020-04-18 00:42:00,2020-04-18,00:42:00,Saturday,504,king and bay,Emergency Services,10.0,20.0,W,4497
 2020-04-18 02:36:00,2020-04-18,02:36:00,Saturday,304,dundas west station,Mechanical,4.0,8.0,S,4527
-2020-04-18 03:00:00,2020-04-18,03:00:00,Saturday,301,longbranch loop,Mechanical,10.0,20.0,,4520
+2020-04-18 03:00:00,2020-04-18,03:00:00,Saturday,301,longbranch loop,Mechanical,10.0,20.0,E,4520
 2020-04-18 04:09:00,2020-04-18,04:09:00,Saturday,501,russell yard,Late Leaving Garage,10.0,20.0,E,4602
 2020-04-18 05:30:00,2020-04-18,05:30:00,Saturday,510,spadina at king,Late Leaving Garage,15.0,30.0,N,4451
 2020-04-18 08:29:00,2020-04-18,08:29:00,Saturday,510,spadina and king,Late Leaving Garage,12.0,10.0,N,4558
@@ -143967,3 +143967,1023 @@ dt,date,time,day,route,location,incident,delay,gap,direction,vehicle
 2024-09-30 23:35:00,2024-09-30,23:35,Monday,501,king and yonge,General Delay,10.0,20.0,E,4479
 2024-09-30 01:30:00,2024-09-30,01:30,Monday,503,kingston road and weve,Security,5.0,15.0,W,4402
 2024-09-30 01:33:00,2024-09-30,01:33,Monday,505,queen and leslie,Emergency Services,0.0,0.0,W,4487
+2024-10-01 02:05:00,2024-10-01,02:05,Tuesday,503,kingston and queen,Operations,10.0,20.0,E,4406
+2024-10-01 03:10:00,2024-10-01,03:10,Tuesday,303,queen and kingston,Held By,48.0,78.0,E,4498
+2024-10-01 03:10:00,2024-10-01,03:10,Tuesday,511,coxwell loop,Operations,0.0,0.0,S,4463
+2024-10-01 03:45:00,2024-10-01,03:45,Tuesday,301,queen and coxwell,Diversion,48.0,73.0,W,4510
+2024-10-01 03:52:00,2024-10-01,03:52,Tuesday,303,queen and coxwell,Diversion,0.0,0.0,,0
+2024-10-01 04:22:00,2024-10-01,04:22,Tuesday,304,king and bathurst,Security,16.0,26.0,E,4419
+2024-10-01 05:14:00,2024-10-01,05:14,Tuesday,504,shaw and queen,Diversion,25.0,35.0,E,4519
+2024-10-01 05:15:00,2024-10-01,05:15,Tuesday,505,dundas and broadview,General Delay,0.0,0.0,N,4443
+2024-10-01 05:22:00,2024-10-01,05:22,Tuesday,503,shaw and shank,General Delay,21.0,51.0,E,4521
+2024-10-01 05:35:00,2024-10-01,05:35,Tuesday,505,queen and leslie,Security,0.0,0.0,W,4622
+2024-10-01 06:34:00,2024-10-01,06:34,Tuesday,505,dundas and regent st,Cleaning - Unsanitary,10.0,20.0,E,4532
+2024-10-01 06:34:00,2024-10-01,06:34,Tuesday,505,dundas and sumach,Cleaning - Unsanitary,10.0,20.0,E,4532
+2024-10-01 06:45:00,2024-10-01,06:45,Tuesday,509,mount dennis garage,Mechanical,6.0,12.0,E,7325
+2024-10-01 10:16:00,2024-10-01,10:16,Tuesday,501,queen and coxwell,Security,0.0,0.0,,0
+2024-10-01 14:07:00,2024-10-01,14:07,Tuesday,509,front and bay,Operations,5.0,10.0,N,8707
+2024-10-01 14:16:00,2024-10-01,14:16,Tuesday,501,mccaul loop,Diversion,36.0,46.0,E,4574
+2024-10-01 15:14:00,2024-10-01,15:14,Tuesday,501,queen and niagara,Collision - TTC Involved,32.0,42.0,W,4596
+2024-10-01 15:25:00,2024-10-01,15:25,Tuesday,501,gerrard and broadview,Mechanical,0.0,0.0,W,8184
+2024-10-01 15:58:00,2024-10-01,15:58,Tuesday,512,st clair and dufferin,Investigation,13.0,21.0,W,4429
+2024-10-01 16:01:00,2024-10-01,16:01,Tuesday,510,bloor and spadina,Security,190.0,193.0,N,7221
+2024-10-01 16:27:00,2024-10-01,16:27,Tuesday,511,bathurst and college,Security,0.0,0.0,S,4444
+2024-10-01 16:42:00,2024-10-01,16:42,Tuesday,505,dundas west and yonge,General Delay,0.0,0.0,,0
+2024-10-01 18:35:00,2024-10-01,18:35,Tuesday,501,queen and kingston,General Delay,0.0,0.0,E,4412
+2024-10-01 18:35:00,2024-10-01,18:35,Tuesday,503,broadview and queen,General Delay,0.0,0.0,E,4447
+2024-10-01 19:00:00,2024-10-01,19:00,Tuesday,505,bay and dundas,Cleaning - Unsanitary,10.0,20.0,E,4508
+2024-10-01 19:22:00,2024-10-01,19:22,Tuesday,501,church and adelaide,Diversion,30.0,0.0,S,0
+2024-10-01 20:30:00,2024-10-01,20:30,Tuesday,505,dundas bay and church,Diversion,0.0,0.0,E,0
+2024-10-01 20:50:00,2024-10-01,20:50,Tuesday,510,spadina and front,Mechanical,189.0,193.0,S,3756
+2024-10-01 21:35:00,2024-10-01,21:35,Tuesday,503,bingham loop,Mechanical,10.0,20.0,W,4503
+2024-10-01 22:19:00,2024-10-01,22:19,Tuesday,504,queen and roncesvalles,Operations,44.0,54.0,W,4533
+2024-10-01 22:27:00,2024-10-01,22:27,Tuesday,512,st clair and and north,General Delay,0.0,0.0,,0
+2024-10-01 22:37:00,2024-10-01,22:37,Tuesday,,roncesvalles carhouse,Security,0.0,0.0,,4614
+2024-10-01 22:54:00,2024-10-01,22:54,Tuesday,503,king and ontario,Mechanical,10.0,20.0,E,4474
+2024-10-01 23:26:00,2024-10-01,23:26,Tuesday,504,distillery loop,Cleaning - Unsanitary,10.0,20.0,W,4437
+2024-10-01 23:32:00,2024-10-01,23:32,Tuesday,505,dundas and university,Security,10.0,20.0,W,4501
+2024-10-01 00:07:00,2024-10-01,00:07,Tuesday,507,lakseshore and louise,Held By,108.0,118.0,E,4589
+2024-10-01 00:44:00,2024-10-01,00:44,Tuesday,507,humber loop and queens,Held By,108.0,118.0,W,4407
+2024-10-02 02:18:00,2024-10-02,02:18,Wednesday,505,dundas and yonge,Security,21.0,51.0,W,4451
+2024-10-02 06:57:00,2024-10-02,06:57,Wednesday,509,mt dennis garage,Operations,6.0,12.0,E,7322
+2024-10-02 07:30:00,2024-10-02,07:30,Wednesday,504,queen and king,Mechanical,10.0,20.0,E,4497
+2024-10-02 07:48:00,2024-10-02,07:48,Wednesday,501,queen and sumach,Security,10.0,20.0,E,4467
+2024-10-02 08:28:00,2024-10-02,08:28,Wednesday,509,10 lake shore blvd wes,Cleaning - Unsanitary,3.0,6.0,E,7278
+2024-10-02 09:50:00,2024-10-02,09:50,Wednesday,504,cherry and front,Mechanical,10.0,20.0,W,4616
+2024-10-02 10:08:00,2024-10-02,10:08,Wednesday,501,woolsley loop,Investigation,10.0,20.0,W,8156
+2024-10-02 10:52:00,2024-10-02,10:52,Wednesday,501,queen and john,Mechanical,10.0,20.0,E,4552
+2024-10-02 11:05:00,2024-10-02,11:05,Wednesday,501,neville park loop,Investigation,10.0,20.0,E,4484
+2024-10-02 11:15:00,2024-10-02,11:15,Wednesday,501,mccaul loop,Held By,30.0,40.0,W,4614
+2024-10-02 11:54:00,2024-10-02,11:54,Wednesday,509,exhibition loop,Security,3.0,6.0,,8836
+2024-10-02 12:54:00,2024-10-02,12:54,Wednesday,510,spadina and nassau,Security,3.0,7.0,S,7258
+2024-10-02 13:08:00,2024-10-02,13:08,Wednesday,512,gunns loop,Emergency Services,8.0,16.0,S,4509
+2024-10-02 13:51:00,2024-10-02,13:51,Wednesday,504,roncesvalles and queen,Cleaning - Unsanitary,8.0,16.0,E,4428
+2024-10-02 14:07:00,2024-10-02,14:07,Wednesday,504,cherry and front,Cleaning - Unsanitary,10.0,20.0,E,4480
+2024-10-02 14:30:00,2024-10-02,14:30,Wednesday,503,spadina and king,Diversion,10.0,30.0,E,4607
+2024-10-02 15:34:00,2024-10-02,15:34,Wednesday,501,gerrard and broadview,Investigation,10.0,20.0,W,3213
+2024-10-02 15:35:00,2024-10-02,15:35,Wednesday,506,gerrard and broadview,Diversion,10.0,20.0,W,4587
+2024-10-02 15:50:00,2024-10-02,15:50,Wednesday,505,dundas and manning,General Delay,0.0,0.0,W,4419
+2024-10-02 15:53:00,2024-10-02,15:53,Wednesday,501,jack layton way and st,Collision - TTC Involved,10.0,20.0,W,8156
+2024-10-02 16:45:00,2024-10-02,16:45,Wednesday,503,charlotte loop,General Delay,10.0,30.0,E,4607
+2024-10-02 17:28:00,2024-10-02,17:28,Wednesday,501,dufferin and king west,Cleaning - Unsanitary,10.0,20.0,E,4570
+2024-10-02 20:05:00,2024-10-02,20:05,Wednesday,505,lansdowne and dundas,Security,14.0,28.0,E,4543
+2024-10-02 21:45:00,2024-10-02,21:45,Wednesday,501,mccaul loop,Mechanical,10.0,20.0,E,4561
+2024-10-02 21:45:00,2024-10-02,21:45,Wednesday,504,dundas west station,Security,10.0,20.0,,4511
+2024-10-02 22:09:00,2024-10-02,22:09,Wednesday,506,high park loop,Diversion,10.0,20.0,S,4541
+2024-10-02 22:30:00,2024-10-02,22:30,Wednesday,509,bay and lake shore,Diversion,25.0,29.0,E,8684
+2024-10-02 23:55:00,2024-10-02,23:55,Wednesday,503,bingham loop,Cleaning - Unsanitary,10.0,20.0,E,4525
+2024-10-02 00:19:00,2024-10-02,00:19,Wednesday,510,lower spadina and quee,Emergency Services,6.0,12.0,N,8736
+2024-10-02 00:23:00,2024-10-02,00:23,Wednesday,505,dundas west station,Security,10.0,20.0,,4515
+2024-10-02 01:07:00,2024-10-02,01:07,Wednesday,507,mccaul and renfrew,Emergency Services,10.0,20.0,N,4549
+2024-10-02 01:22:00,2024-10-02,01:22,Wednesday,507,queen and spadina,Diversion,25.0,35.0,E,4400
+2024-10-02 01:57:00,2024-10-02,01:57,Wednesday,505,broadview station,Emergency Services,10.0,20.0,,4671
+2024-10-03 02:39:00,2024-10-03,02:39,Thursday,301,spadina and king to sp,Overhead,22.0,42.0,,0
+2024-10-03 03:12:00,2024-10-03,03:12,Thursday,504,dundas west station,Security,9.0,18.0,,4529
+2024-10-03 03:50:00,2024-10-03,03:50,Thursday,504,king and church,Diversion,27.0,47.0,E,4501
+2024-10-03 03:50:00,2024-10-03,03:50,Thursday,503,queen and don roadway,Security,21.0,51.0,E,4605
+2024-10-03 03:56:00,2024-10-03,03:56,Thursday,503,king and portland,Diversion,21.0,51.0,E,4517
+2024-10-03 04:32:00,2024-10-03,04:32,Thursday,503,queen and roncesvalles,Security,30.0,60.0,W,4525
+2024-10-03 05:40:00,2024-10-03,05:40,Thursday,501,long branch loop,Security,7.0,27.0,,4561
+2024-10-03 05:46:00,2024-10-03,05:46,Thursday,504,fleet loop,Operations,10.0,20.0,W,4528
+2024-10-03 07:05:00,2024-10-03,07:05,Thursday,501,queen and bathurst,Emergency Services,10.0,20.0,W,3337
+2024-10-03 07:24:00,2024-10-03,07:24,Thursday,505,dundas and carroll,Operations,9.0,18.0,E,4611
+2024-10-03 09:13:00,2024-10-03,09:13,Thursday,512,st clair and yonge,General Delay,7.0,14.0,W,4480
+2024-10-03 09:34:00,2024-10-03,09:34,Thursday,511,bathurst and queen,Security,0.0,0.0,N,4486
+2024-10-03 10:27:00,2024-10-03,10:27,Thursday,503,charlotte loop,Diversion,0.0,0.0,,4487
+2024-10-03 10:33:00,2024-10-03,10:33,Thursday,501,queen and kingston,Emergency Services,0.0,0.0,W,4470
+2024-10-03 10:59:00,2024-10-03,10:59,Thursday,507,lake shore and legion,Mechanical,10.0,20.0,W,4587
+2024-10-03 12:54:00,2024-10-03,12:54,Thursday,504,king route,General Delay,0.0,0.0,,0
+2024-10-03 13:03:00,2024-10-03,13:03,Thursday,506,coxwell and lower gerr,Mechanical,10.0,20.0,W,4495
+2024-10-03 13:33:00,2024-10-03,13:33,Thursday,503,charlotte loop,General Delay,0.0,0.0,,0
+2024-10-03 14:19:00,2024-10-03,14:19,Thursday,510,spadina and queensquay,Mechanical,5.0,10.0,S,8656
+2024-10-03 14:42:00,2024-10-03,14:42,Thursday,506,lower gerrard and pape,Mechanical,10.0,20.0,E,4603
+2024-10-03 14:46:00,2024-10-03,14:46,Thursday,506,college and university,Security,10.0,20.0,E,4514
+2024-10-03 15:12:00,2024-10-03,15:12,Thursday,505,broadview and danforth,General Delay,0.0,0.0,,0
+2024-10-03 17:53:00,2024-10-03,17:53,Thursday,505,dundas and bay,General Delay,34.0,44.0,E,4529
+2024-10-03 17:53:00,2024-10-03,17:53,Thursday,503,dundas and bay,General Delay,34.0,44.0,E,4529
+2024-10-03 17:53:00,2024-10-03,17:53,Thursday,505,dundas and bay,Operations,34.0,44.0,E,4529
+2024-10-03 18:32:00,2024-10-03,18:32,Thursday,507,humber loop,Mechanical,10.0,20.0,E,4587
+2024-10-03 19:19:00,2024-10-03,19:19,Thursday,501,queen and carlaw,Emergency Services,10.0,19.0,W,4526
+2024-10-03 21:42:00,2024-10-03,21:42,Thursday,503,king and university,Diversion,47.0,57.0,E,4474
+2024-10-03 21:42:00,2024-10-03,21:42,Thursday,501,king and church,Operations,10.0,20.0,E,4624
+2024-10-03 22:04:00,2024-10-03,22:04,Thursday,504,king and church,Diversion,34.0,44.0,E,4504
+2024-10-03 23:40:00,2024-10-03,23:40,Thursday,503,king and blue jays way,Operations,10.0,20.0,W,4447
+2024-10-03 00:08:00,2024-10-03,00:08,Thursday,501,queen and sherbourne,Security,68.0,78.0,W,4526
+2024-10-04 04:31:00,2024-10-04,04:31,Friday,301,queen and neville park,Emergency Services,15.0,35.0,E,4451
+2024-10-04 04:32:00,2024-10-04,04:32,Friday,501,queen and coxwell,Diversion,15.0,35.0,E,4511
+2024-10-04 06:26:00,2024-10-04,06:26,Friday,501,king and york,Emergency Services,10.0,20.0,S,4445
+2024-10-04 06:50:00,2024-10-04,06:50,Friday,504,2261 dunds st west,Mechanical,10.0,20.0,E,4497
+2024-10-04 06:58:00,2024-10-04,06:58,Friday,501,queen and bathurst,Collision - TTC Involved,68.0,78.0,E,4526
+2024-10-04 10:09:00,2024-10-04,10:09,Friday,509,bay and queens quay,Mechanical,3.0,6.0,E,7263
+2024-10-04 11:15:00,2024-10-04,11:15,Friday,510,spadina station,Mechanical,4.0,8.0,N,7232
+2024-10-04 12:57:00,2024-10-04,12:57,Friday,,spadina and bremner,Emergency Services,0.0,0.0,,0
+2024-10-04 14:35:00,2024-10-04,14:35,Friday,509,exhibition loop,Investigation,5.0,10.0,,7253
+2024-10-04 14:37:00,2024-10-04,14:37,Friday,505,dundas west station,Mechanical,10.0,20.0,E,4552
+2024-10-04 14:50:00,2024-10-04,14:50,Friday,503,parliament and king,General Delay,10.0,20.0,N,4474
+2024-10-04 14:55:00,2024-10-04,14:55,Friday,506,college and havelock,Collision - TTC Involved,57.0,67.0,E,4602
+2024-10-04 15:22:00,2024-10-04,15:22,Friday,501,russell carhouse,Mechanical,10.0,20.0,W,4491
+2024-10-04 15:40:00,2024-10-04,15:40,Friday,510,spadina and bloor,Cleaning - Unsanitary,4.0,7.0,N,8641
+2024-10-04 16:12:00,2024-10-04,16:12,Friday,511,bathurst station,Security,23.0,30.0,,4451
+2024-10-04 16:20:00,2024-10-04,16:20,Friday,501,queen and bathurst,Utilized Off Route,5.0,10.0,E,7021
+2024-10-04 16:51:00,2024-10-04,16:51,Friday,501,mccaul loop,Cleaning - Unsanitary,10.0,20.0,E,4541
+2024-10-04 16:54:00,2024-10-04,16:54,Friday,506,college and spadina,Held By,10.0,20.0,W,4563
+2024-10-04 17:26:00,2024-10-04,17:26,Friday,505,dundas and broadview,Cleaning - Unsanitary,10.0,20.0,S,4437
+2024-10-04 17:39:00,2024-10-04,17:39,Friday,501,queen and bathurst,Operations,5.0,10.0,N,8167
+2024-10-04 17:57:00,2024-10-04,17:57,Friday,507,long branch loop,Operations,10.0,20.0,E,4489
+2024-10-04 18:10:00,2024-10-04,18:10,Friday,501,queen and bathurst,Utilized Off Route,5.0,10.0,E,8148
+2024-10-04 18:13:00,2024-10-04,18:13,Friday,501,church and richmond,Collision - TTC Involved,58.0,63.0,N,3236
+2024-10-04 18:33:00,2024-10-04,18:33,Friday,503,queen and kingston,Cleaning - Unsanitary,10.0,20.0,E,4404
+2024-10-04 18:44:00,2024-10-04,18:44,Friday,506,college and havelock,Emergency Services,10.0,20.0,W,4555
+2024-10-04 19:40:00,2024-10-04,19:40,Friday,506,college and lansdowne,Operations,11.0,21.0,E,4573
+2024-10-04 19:44:00,2024-10-04,19:44,Friday,501,queensway garage,Operations,8.0,16.0,E,8140
+2024-10-04 19:51:00,2024-10-04,19:51,Friday,501,queen and broadview,Diversion,56.0,66.0,W,4545
+2024-10-04 19:53:00,2024-10-04,19:53,Friday,501,broadview and queen,Cleaning - Unsanitary,10.0,20.0,N,4445
+2024-10-04 20:12:00,2024-10-04,20:12,Friday,504,queen and dunn,Security,8.0,18.0,E,4516
+2024-10-04 20:14:00,2024-10-04,20:14,Friday,509,exhibition loop,Mechanical,3.0,6.0,E,1003
+2024-10-04 20:41:00,2024-10-04,20:41,Friday,512,st clair and winona,Operations,9.0,17.0,E,4621
+2024-10-04 23:35:00,2024-10-04,23:35,Friday,506,college and dovercourt,Held By,10.0,20.0,E,4602
+2024-10-04 00:07:00,2024-10-04,00:07,Friday,501,queen and bellefair,Cleaning - Unsanitary,10.0,20.0,W,4486
+2024-10-04 01:52:00,2024-10-04,01:52,Friday,506,main street station,Emergency Services,15.0,30.0,,4581
+2024-10-04 01:55:00,2024-10-04,01:55,Friday,512,lansdowne loop,Emergency Services,0.0,0.0,,4514
+2024-10-05 02:00:00,2024-10-05,02:00,Saturday,301,broadview and gerrard,Utilized Off Route,30.0,60.0,E,8310
+2024-10-05 03:09:00,2024-10-05,03:09,Saturday,510,spadina and front,General Delay,0.0,0.0,S,8734
+2024-10-05 03:27:00,2024-10-05,03:27,Saturday,505,sunnyside loop,Security,0.0,0.0,S,4590
+2024-10-05 08:45:00,2024-10-05,08:45,Saturday,505,dundas and bathurst,General Delay,0.0,0.0,W,4592
+2024-10-05 08:47:00,2024-10-05,08:47,Saturday,506,main station,Security,10.0,20.0,W,4579
+2024-10-05 08:53:00,2024-10-05,08:53,Saturday,503,king and sherbourne,Cleaning - Unsanitary,10.0,20.0,,4434
+2024-10-05 08:57:00,2024-10-05,08:57,Saturday,506,college and lansdowne,Mechanical,10.0,20.0,,4440
+2024-10-05 10:14:00,2024-10-05,10:14,Saturday,503,charlotte loop,Overhead,18.0,28.0,W,4487
+2024-10-05 11:48:00,2024-10-05,11:48,Saturday,510,spadina station,Operations,3.0,6.0,,8624
+2024-10-05 12:00:00,2024-10-05,12:00,Saturday,501,queen and jarvis,Collision - TTC Involved,5.0,10.0,W,3345
+2024-10-05 12:14:00,2024-10-05,12:14,Saturday,505,dundas and brock,General Delay,0.0,0.0,,0
+2024-10-05 12:49:00,2024-10-05,12:49,Saturday,501,broadview and dundas,Cleaning - Unsanitary,0.0,0.0,N,8131
+2024-10-05 13:35:00,2024-10-05,13:35,Saturday,505,bay and dundas,Held By,0.0,0.0,,4555
+2024-10-05 13:53:00,2024-10-05,13:53,Saturday,506,college and e of henry,Emergency Services,38.0,48.0,E,4536
+2024-10-05 13:56:00,2024-10-05,13:56,Saturday,501,queen and carroll,Cleaning - Unsanitary,5.0,10.0,E,8131
+2024-10-05 13:59:00,2024-10-05,13:59,Saturday,504,queen and roncesvalles,Operations,10.0,20.0,N,4426
+2024-10-05 14:00:00,2024-10-05,14:00,Saturday,506,college and university,Diversion,16.0,26.0,W,4603
+2024-10-05 14:07:00,2024-10-05,14:07,Saturday,506,college and yonge,Diversion,16.0,26.0,,0
+2024-10-05 14:24:00,2024-10-05,14:24,Saturday,506,college and beverley,General Delay,0.0,0.0,,0
+2024-10-05 14:38:00,2024-10-05,14:38,Saturday,512,gunns loop,Mechanical,8.0,16.0,S,4439
+2024-10-05 14:39:00,2024-10-05,14:39,Saturday,505,broadview station,Mechanical,10.0,20.0,W,4451
+2024-10-05 14:54:00,2024-10-05,14:54,Saturday,501,woseley loop,Mechanical,0.0,0.0,,8178
+2024-10-05 15:18:00,2024-10-05,15:18,Saturday,504,queen and dufferin,General Delay,0.0,1.0,E,4551
+2024-10-05 15:39:00,2024-10-05,15:39,Saturday,510,spadina station,Operations,3.0,5.0,W,8675
+2024-10-05 16:00:00,2024-10-05,16:00,Saturday,506,college and brock,Mechanical,10.0,20.0,W,4550
+2024-10-05 17:16:00,2024-10-05,17:16,Saturday,501,queen and university,Operations,10.0,20.0,E,8213
+2024-10-05 17:31:00,2024-10-05,17:31,Saturday,506,college and mccaul,Operations,45.0,55.0,W,4603
+2024-10-05 17:53:00,2024-10-05,17:53,Saturday,512,st clair and yonge,Operations,11.0,19.0,W,4445
+2024-10-05 18:02:00,2024-10-05,18:02,Saturday,510,spadina and bloor,Diversion,69.0,73.0,,8675
+2024-10-05 18:23:00,2024-10-05,18:23,Saturday,506,college and huron,Held By,55.0,65.0,W,4528
+2024-10-05 18:42:00,2024-10-05,18:42,Saturday,507,queensway and winderme,Mechanical,10.0,20.0,E,4561
+2024-10-05 19:47:00,2024-10-05,19:47,Saturday,504,king and yonge,Emergency Services,47.0,57.0,E,4484
+2024-10-05 20:09:00,2024-10-05,20:09,Saturday,501,king and yonge,Diversion,30.0,40.0,E,8182
+2024-10-05 20:32:00,2024-10-05,20:32,Saturday,501,broadview and queen,Utilized Off Route,10.0,20.0,E,8156
+2024-10-05 20:44:00,2024-10-05,20:44,Saturday,511,bathurst and dundas,General Delay,0.0,0.0,S,4518
+2024-10-05 20:46:00,2024-10-05,20:46,Saturday,503,queen and greenwood,Diversion,47.0,57.0,W,4447
+2024-10-05 20:50:00,2024-10-05,20:50,Saturday,501,queen and jarvis,Diversion,47.0,57.0,W,4427
+2024-10-05 21:01:00,2024-10-05,21:01,Saturday,501,wolseley loop,Utilized Off Route,5.0,10.0,W,8136
+2024-10-05 22:44:00,2024-10-05,22:44,Saturday,501,queen and bathust,Diversion,30.0,40.0,W,8325
+2024-10-06 03:52:00,2024-10-06,03:52,Sunday,301,broadview and dundas,Security,30.0,60.0,E,8182
+2024-10-06 04:07:00,2024-10-06,04:07,Sunday,506,kingston loop,Security,20.0,40.0,,4524
+2024-10-06 04:07:00,2024-10-06,04:07,Sunday,505,broadview and wolfrey,Cleaning - Unsanitary,20.0,40.0,W,4555
+2024-10-06 05:53:00,2024-10-06,05:53,Sunday,510,bathurst and queens qu,Diversion,0.0,0.0,E,8211
+2024-10-06 07:05:00,2024-10-06,07:05,Sunday,506,roncesvalles carhouse,Operations,8.0,18.0,,4542
+2024-10-06 07:20:00,2024-10-06,07:20,Sunday,504,roncesvalles and howar,Mechanical,10.0,20.0,S,4595
+2024-10-06 07:25:00,2024-10-06,07:25,Sunday,504,roncesvalles yard,Operations,10.0,20.0,,4560
+2024-10-06 07:27:00,2024-10-06,07:27,Sunday,505,leslie carhouse,Operations,10.0,20.0,E,4538
+2024-10-06 08:12:00,2024-10-06,08:12,Sunday,504,braodview and gerrard,Cleaning - Unsanitary,10.0,20.0,E,4441
+2024-10-06 09:09:00,2024-10-06,09:09,Sunday,503,queen and connaught,Mechanical,10.0,20.0,E,4447
+2024-10-06 09:28:00,2024-10-06,09:28,Sunday,509,queens quay and spadin,Overhead,0.0,0.0,,4528
+2024-10-06 10:10:00,2024-10-06,10:10,Sunday,509,queens quay and rees,Operations,8.0,16.0,W,4532
+2024-10-06 11:37:00,2024-10-06,11:37,Sunday,505,dundas and dufferin,General Delay,0.0,0.0,W,0
+2024-10-06 11:51:00,2024-10-06,11:51,Sunday,512,bathurst and st clair,Held By,10.0,20.0,W,4430
+2024-10-06 12:15:00,2024-10-06,12:15,Sunday,506,gerrard and broadview,Cleaning - Unsanitary,10.0,20.0,W,4536
+2024-10-06 12:23:00,2024-10-06,12:23,Sunday,512,bathurst and st clair,Held By,10.0,20.0,W,4470
+2024-10-06 12:25:00,2024-10-06,12:25,Sunday,501,queen and kingston,Cleaning - Unsanitary,10.0,20.0,S,4440
+2024-10-06 13:59:00,2024-10-06,13:59,Sunday,512,st clair and deer park,General Delay,23.0,31.0,E,4470
+2024-10-06 14:22:00,2024-10-06,14:22,Sunday,501,queen and neville park,Emergency Services,12.0,20.0,E,4526
+2024-10-06 15:03:00,2024-10-06,15:03,Sunday,501,queen and shaw,Mechanical,10.0,20.0,E,4461
+2024-10-06 15:26:00,2024-10-06,15:26,Sunday,503,bingham loop,General Delay,0.0,0.0,,0
+2024-10-06 17:59:00,2024-10-06,17:59,Sunday,510,exhibition loop,Mechanical,5.0,10.0,S,3272
+2024-10-06 19:25:00,2024-10-06,19:25,Sunday,512,st clair and arlingto,Operations,11.0,19.0,W,4470
+2024-10-06 19:26:00,2024-10-06,19:26,Sunday,506,carlton and parliament,General Delay,10.0,20.0,E,4601
+2024-10-06 20:23:00,2024-10-06,20:23,Sunday,506,main and gerrard,Diversion,19.0,29.0,E,4501
+2024-10-06 22:59:00,2024-10-06,22:59,Sunday,510,spadina and lowther,Utilized Off Route,8.0,14.0,E,8741
+2024-10-06 23:35:00,2024-10-06,23:35,Sunday,600,gerrard and broadview,Operations,0.0,0.0,W,8923
+2024-10-07 02:26:00,2024-10-07,02:26,Monday,505,kingston road loop,Emergency Services,0.0,0.0,,4458
+2024-10-07 02:28:00,2024-10-07,02:28,Monday,305,dundas and jarvis,Cleaning - Unsanitary,20.0,40.0,W,4486
+2024-10-07 05:05:00,2024-10-07,05:05,Monday,503,king and triller,Security,10.0,20.0,W,4443
+2024-10-07 06:01:00,2024-10-07,06:01,Monday,507,the queensway and park,Security,10.0,20.0,W,4556
+2024-10-07 06:12:00,2024-10-07,06:12,Monday,505,kingston rd loop insi,Emergency Services,0.0,0.0,,4463
+2024-10-07 06:17:00,2024-10-07,06:17,Monday,507,the queenways,Emergency Services,0.0,0.0,E,4602
+2024-10-07 07:03:00,2024-10-07,07:03,Monday,508,roncesvalles yard,Operations,20.0,40.0,,4546
+2024-10-07 07:36:00,2024-10-07,07:36,Monday,503,king and sumach,Operations,10.0,20.0,N,4434
+2024-10-07 08:41:00,2024-10-07,08:41,Monday,503,queen and greenwood,General Delay,0.0,0.0,E,4605
+2024-10-07 08:44:00,2024-10-07,08:44,Monday,505,bay and dundas,Cleaning - Unsanitary,10.0,20.0,E,4429
+2024-10-07 08:56:00,2024-10-07,08:56,Monday,503,kingston and queen,General Delay,0.0,0.0,,4448
+2024-10-07 11:07:00,2024-10-07,11:07,Monday,506,gerrard and lower coxw,Operations,10.0,20.0,E,4456
+2024-10-07 11:10:00,2024-10-07,11:10,Monday,,roncesvalles division,Operations,0.0,0.0,,0
+2024-10-07 11:23:00,2024-10-07,11:23,Monday,506,gerrard and coxwell,Operations,10.0,20.0,E,4507
+2024-10-07 13:14:00,2024-10-07,13:14,Monday,512,st clair station,Cleaning - Unsanitary,8.0,16.0,W,4504
+2024-10-07 13:45:00,2024-10-07,13:45,Monday,505,dundas and university,Emergency Services,20.0,30.0,E,4426
+2024-10-07 14:47:00,2024-10-07,14:47,Monday,504,king and church,Security,10.0,20.0,E,4547
+2024-10-07 15:14:00,2024-10-07,15:14,Monday,501,queen and sherbourne,Security,10.0,20.0,E,1332
+2024-10-07 15:44:00,2024-10-07,15:44,Monday,512,st clair and lansdown,General Delay,10.0,20.0,W,4493
+2024-10-07 16:45:00,2024-10-07,16:45,Monday,510,charlotte and king,Security,8.0,16.0,S,8329
+2024-10-07 17:00:00,2024-10-07,17:00,Monday,506,gerrard and jones,Mechanical,25.0,35.0,W,4475
+2024-10-07 17:42:00,2024-10-07,17:42,Monday,504,king and parliament to,General Delay,0.0,0.0,,4477
+2024-10-07 17:56:00,2024-10-07,17:56,Monday,505,dundas and sorauren,Cleaning - Unsanitary,10.0,20.0,E,4560
+2024-10-07 18:00:00,2024-10-07,18:00,Monday,506,college and dovercourt,General Delay,0.0,0.0,,0
+2024-10-07 18:00:00,2024-10-07,18:00,Monday,506,mccaul and college,Held By,120.0,130.0,S,4542
+2024-10-07 18:27:00,2024-10-07,18:27,Monday,501,king and yonge,Investigation,0.0,0.0,E,8786
+2024-10-07 19:15:00,2024-10-07,19:15,Monday,501,wolsley loop,Mechanical,0.0,0.0,,1332
+2024-10-07 19:21:00,2024-10-07,19:21,Monday,505,dundas west station,Emergency Services,31.0,41.0,W,4445
+2024-10-07 19:22:00,2024-10-07,19:22,Monday,505,dundas west station,Cleaning - Unsanitary,10.0,20.0,E,4445
+2024-10-07 21:27:00,2024-10-07,21:27,Monday,505,broadview and millbroo,Security,31.0,41.0,N,4404
+2024-10-07 21:33:00,2024-10-07,21:33,Monday,504,dundas and parliament,Diversion,29.0,39.0,W,4494
+2024-10-07 21:36:00,2024-10-07,21:36,Monday,510,spadina station,Operations,0.0,0.0,S,8696
+2024-10-07 22:09:00,2024-10-07,22:09,Monday,504,roncesvalles and grena,General Delay,13.0,23.0,W,4513
+2024-10-07 23:23:00,2024-10-07,23:23,Monday,504,broadview and king,General Delay,10.0,20.0,E,4477
+2024-10-07 00:19:00,2024-10-07,00:19,Monday,509,queens quay and harbou,Mechanical,9.0,18.0,W,4440
+2024-10-07 00:38:00,2024-10-07,00:38,Monday,505,dundas and ossington,Emergency Services,75.0,95.0,W,4502
+2024-10-07 01:13:00,2024-10-07,01:13,Monday,501,neville park loop,Emergency Services,34.0,44.0,W,4484
+2024-10-08 02:53:00,2024-10-08,02:53,Tuesday,506,main street station,Emergency Services,30.0,45.0,E,4413
+2024-10-08 04:00:00,2024-10-08,04:00,Tuesday,301,queen and church,Diversion,25.0,35.0,W,4444
+2024-10-08 05:08:00,2024-10-08,05:08,Tuesday,,russell divsion,Security,0.0,0.0,,0
+2024-10-08 05:17:00,2024-10-08,05:17,Tuesday,504,sunnyside loop,Emergency Services,10.0,20.0,,4452
+2024-10-08 06:30:00,2024-10-08,06:30,Tuesday,507,lakeshore and mimico,Mechanical,10.0,20.0,W,4564
+2024-10-08 06:48:00,2024-10-08,06:48,Tuesday,501,spadina and adelaide,Mechanical,100.0,110.0,S,4575
+2024-10-08 07:02:00,2024-10-08,07:02,Tuesday,504,roncesvalles yard,Operations,8.0,16.0,E,4571
+2024-10-08 07:11:00,2024-10-08,07:11,Tuesday,512,gunns loop,Mechanical,8.0,16.0,W,4463
+2024-10-08 07:58:00,2024-10-08,07:58,Tuesday,505,dundas and lansdowne,Operations,10.0,20.0,W,4506
+2024-10-08 08:24:00,2024-10-08,08:24,Tuesday,506,carlton and parliament,Operations,10.0,20.0,E,4483
+2024-10-08 09:15:00,2024-10-08,09:15,Tuesday,507,lakeshore and twenty n,Held By,25.0,35.0,W,4544
+2024-10-08 10:05:00,2024-10-08,10:05,Tuesday,507,lakeshore and thirtys,Mechanical,10.0,20.0,W,4589
+2024-10-08 11:33:00,2024-10-08,11:33,Tuesday,505,broadview and gerrard,Security,10.0,86.0,N,4559
+2024-10-08 11:50:00,2024-10-08,11:50,Tuesday,504,broadview and gerrard,Diversion,81.0,91.0,,4438
+2024-10-08 12:11:00,2024-10-08,12:11,Tuesday,501,dundas and munro,Collision - TTC Involved,25.0,35.0,W,4444
+2024-10-08 12:15:00,2024-10-08,12:15,Tuesday,503,dundas and munro,Diversion,30.0,40.0,W,0
+2024-10-08 14:04:00,2024-10-08,14:04,Tuesday,505,dundas and church,Security,10.0,20.0,W,4559
+2024-10-08 14:33:00,2024-10-08,14:33,Tuesday,505,dundas west station,Emergency Services,10.0,20.0,,4506
+2024-10-08 15:16:00,2024-10-08,15:16,Tuesday,505,bay and hayter,Emergency Services,10.0,20.0,S,4507
+2024-10-08 15:21:00,2024-10-08,15:21,Tuesday,504,king and parliament,General Delay,0.0,0.0,,0
+2024-10-08 15:28:00,2024-10-08,15:28,Tuesday,505,dundas and church,General Delay,10.0,20.0,W,4559
+2024-10-08 16:31:00,2024-10-08,16:31,Tuesday,,leslie barns yard,General Delay,0.0,0.0,,4420
+2024-10-08 17:01:00,2024-10-08,17:01,Tuesday,512,st clair and old stock,Diversion,18.0,26.0,W,4516
+2024-10-08 18:25:00,2024-10-08,18:25,Tuesday,505,carlton and church,Operations,10.0,20.0,E,4624
+2024-10-08 18:29:00,2024-10-08,18:29,Tuesday,506,carlton and church,Diversion,37.0,47.0,E,4546
+2024-10-08 18:29:00,2024-10-08,18:29,Tuesday,999,queen and sherbourne,Collision - TTC Involved,5.0,10.0,E,8646
+2024-10-08 21:23:00,2024-10-08,21:23,Tuesday,501,shaw and queen,Security,10.0,20.0,W,4515
+2024-10-08 22:00:00,2024-10-08,22:00,Tuesday,506,gerrard and broadview,Security,35.0,45.0,W,4500
+2024-10-08 23:10:00,2024-10-08,23:10,Tuesday,510,queens quay loop,Security,10.0,20.0,S,8856
+2024-10-08 00:17:00,2024-10-08,00:17,Tuesday,512,st clair and oakwood,General Delay,13.0,23.0,E,4410
+2024-10-09 02:28:00,2024-10-09,02:28,Wednesday,504,king and parliament,Operations,17.0,22.0,E,4417
+2024-10-09 03:51:00,2024-10-09,03:51,Wednesday,501,the queenway and ronce,Cleaning - Unsanitary,15.0,30.0,W,4621
+2024-10-09 04:47:00,2024-10-09,04:47,Wednesday,,russell carhouse,Security,0.0,0.0,,4424
+2024-10-09 05:07:00,2024-10-09,05:07,Wednesday,503,sunnyside loop,Security,10.0,20.0,W,4521
+2024-10-09 05:58:00,2024-10-09,05:58,Wednesday,501,sunnyside loop,Security,0.0,0.0,,4540
+2024-10-09 05:59:00,2024-10-09,05:59,Wednesday,501,queen and leslie,General Delay,10.0,20.0,N,4408
+2024-10-09 07:01:00,2024-10-09,07:01,Wednesday,501,kingston rd loop,Emergency Services,10.0,20.0,,4582
+2024-10-09 10:16:00,2024-10-09,10:16,Wednesday,501,richmond and yonge,Mechanical,0.0,0.0,W,3283
+2024-10-09 10:24:00,2024-10-09,10:24,Wednesday,511,bathurst and dundas,Security,10.0,20.0,,4425
+2024-10-09 11:18:00,2024-10-09,11:18,Wednesday,504,queen and sulter st,Security,0.0,0.0,E,4550
+2024-10-09 11:23:00,2024-10-09,11:23,Wednesday,506,high park loop,Cleaning - Unsanitary,10.0,20.0,S,4439
+2024-10-09 11:29:00,2024-10-09,11:29,Wednesday,503,queen and sulter,Diversion,16.0,26.0,E,4517
+2024-10-09 11:31:00,2024-10-09,11:31,Wednesday,507,lakeshore and park law,Cleaning - Unsanitary,10.0,20.0,S,4573
+2024-10-09 11:31:00,2024-10-09,11:31,Wednesday,501,queen and sulter,Diversion,16.0,26.0,E,4494
+2024-10-09 13:21:00,2024-10-09,13:21,Wednesday,501,charlotte and oxley,Operations,4.0,8.0,N,8762
+2024-10-09 13:28:00,2024-10-09,13:28,Wednesday,501,queen and boulton,Emergency Services,10.0,20.0,W,4412
+2024-10-09 13:50:00,2024-10-09,13:50,Wednesday,504,dundas and parliament,Rail/Switches,0.0,0.0,,4475
+2024-10-09 14:17:00,2024-10-09,14:17,Wednesday,504,dufferin and king,Emergency Services,10.0,20.0,N,4426
+2024-10-09 15:39:00,2024-10-09,15:39,Wednesday,505,broadview station,Operations,10.0,20.0,N,4571
+2024-10-09 16:31:00,2024-10-09,16:31,Wednesday,507,lakeshore and first,Diversion,108.0,118.0,W,4579
+2024-10-09 16:50:00,2024-10-09,16:50,Wednesday,501,kingston loop,Security,6.0,12.0,E,4417
+2024-10-09 17:24:00,2024-10-09,17:24,Wednesday,503,kingston and silver bi,Diversion,242.0,252.0,E,8709
+2024-10-09 18:02:00,2024-10-09,18:02,Wednesday,510,spadina and bloor,Mechanical,8.0,16.0,N,3289
+2024-10-09 20:58:00,2024-10-09,20:58,Wednesday,504,king and shaw,General Delay,0.0,0.0,,0
+2024-10-09 23:20:00,2024-10-09,23:20,Wednesday,501,sunnyside loop,Mechanical,10.0,20.0,W,4582
+2024-10-09 23:46:00,2024-10-09,23:46,Wednesday,511,bathurst and bloor,General Delay,100.0,110.0,N,4606
+2024-10-09 00:21:00,2024-10-09,00:21,Wednesday,505,broadview station,Emergency Services,10.0,20.0,,4531
+2024-10-09 01:00:00,2024-10-09,01:00,Wednesday,503,wellington and church,Held By,7.0,17.0,W,4619
+2024-10-10 04:49:00,2024-10-10,04:49,Thursday,503,kingston and scarborou,Mechanical,10.0,20.0,E,4402
+2024-10-10 06:05:00,2024-10-10,06:05,Thursday,504,king and yonge,Diversion,25.0,35.0,E,4599
+2024-10-10 06:14:00,2024-10-10,06:14,Thursday,504,distillery loop,Emergency Services,10.0,20.0,,4585
+2024-10-10 06:27:00,2024-10-10,06:27,Thursday,301,kingston rd loop,Emergency Services,0.0,0.0,E,4445
+2024-10-10 08:15:00,2024-10-10,08:15,Thursday,504,king and yonge,General Delay,0.0,0.0,W,0
+2024-10-10 08:38:00,2024-10-10,08:38,Thursday,501,jack layton way and br,Emergency Services,0.0,0.0,E,3112
+2024-10-10 08:53:00,2024-10-10,08:53,Thursday,504,broadview and withrow,Cleaning - Unsanitary,10.0,20.0,S,4477
+2024-10-10 09:45:00,2024-10-10,09:45,Thursday,510,charlotte loop,Investigation,4.0,8.0,,8656
+2024-10-10 09:45:00,2024-10-10,09:45,Thursday,504,disterlliey loop,Emergency Services,10.0,20.0,,4464
+2024-10-10 10:21:00,2024-10-10,10:21,Thursday,504,king and dowling,Cleaning - Unsanitary,10.0,20.0,W,4599
+2024-10-10 10:43:00,2024-10-10,10:43,Thursday,507,lakeshore and parklawn,Security,10.0,20.0,E,4547
+2024-10-10 11:44:00,2024-10-10,11:44,Thursday,501,queen and woodbine,Security,10.0,20.0,W,4440
+2024-10-10 14:46:00,2024-10-10,14:46,Thursday,501,gerrard and broadview,Mechanical,0.0,0.0,W,1129
+2024-10-10 15:47:00,2024-10-10,15:47,Thursday,501,kingston loop,Security,10.0,20.0,,4492
+2024-10-10 16:57:00,2024-10-10,16:57,Thursday,506,college and yonge,Collision - TTC Involved,38.0,48.0,E,4522
+2024-10-10 17:14:00,2024-10-10,17:14,Thursday,501,sunnyside loop,Operations,10.0,20.0,N,4419
+2024-10-10 17:15:00,2024-10-10,17:15,Thursday,504,broadview and gerrard,Held By,4.0,14.0,W,4609
+2024-10-10 17:39:00,2024-10-10,17:39,Thursday,504,king and tecumseth,Mechanical,10.0,20.0,E,4524
+2024-10-10 17:42:00,2024-10-10,17:42,Thursday,501,queen and shaw,Emergency Services,10.0,20.0,E,4588
+2024-10-10 18:41:00,2024-10-10,18:41,Thursday,504,dundas west station,Diversion,44.0,54.0,N,4544
+2024-10-10 18:50:00,2024-10-10,18:50,Thursday,505,dundas and grace,Diversion,25.0,35.0,E,4455
+2024-10-10 19:32:00,2024-10-10,19:32,Thursday,510,spadina and college,Mechanical,8.0,16.0,N,8146
+2024-10-10 20:27:00,2024-10-10,20:27,Thursday,512,st clair and winona,General Delay,8.0,16.0,W,4427
+2024-10-10 21:50:00,2024-10-10,21:50,Thursday,506,gerrard and broadview,Cleaning - Unsanitary,10.0,20.0,E,4515
+2024-10-10 23:25:00,2024-10-10,23:25,Thursday,501,queen and neville,Cleaning - Unsanitary,10.0,20.0,E,4459
+2024-10-10 23:38:00,2024-10-10,23:38,Thursday,511,cne loop eastern entra,Emergency Services,10.0,20.0,,4483
+2024-10-10 00:28:00,2024-10-10,00:28,Thursday,510,adelaide and charlotte,Security,10.0,20.0,S,8831
+2024-10-10 00:50:00,2024-10-10,00:50,Thursday,503,kingston and lee,Utilized Off Route,10.0,20.0,E,4434
+2024-10-10 01:54:00,2024-10-10,01:54,Thursday,505,broadview station,Security,0.0,0.0,E,4475
+2024-10-11 05:07:00,2024-10-11,05:07,Friday,504,kingston loop,Security,0.0,0.0,S,4625
+2024-10-11 05:25:00,2024-10-11,05:25,Friday,505,dundas and spadina,Cleaning - Unsanitary,22.0,40.0,,4499
+2024-10-11 05:35:00,2024-10-11,05:35,Friday,503,sunnyside loop,Security,10.0,20.0,,4421
+2024-10-11 05:55:00,2024-10-11,05:55,Friday,501,queen and woodbine,Diversion,17.0,27.0,W,4447
+2024-10-11 05:56:00,2024-10-11,05:56,Friday,,roncesvalles yard,Emergency Services,0.0,0.0,,0
+2024-10-11 06:48:00,2024-10-11,06:48,Friday,510,spadina station,Security,12.0,16.0,S,8672
+2024-10-11 07:00:00,2024-10-11,07:00,Friday,504,king and bay,General Delay,0.0,0.0,,0
+2024-10-11 07:31:00,2024-10-11,07:31,Friday,501,queen and neville,Emergency Services,6.0,16.0,E,4571
+2024-10-11 09:19:00,2024-10-11,09:19,Friday,505,dundas west station,Cleaning - Unsanitary,10.0,20.0,,4577
+2024-10-11 09:57:00,2024-10-11,09:57,Friday,501,humber loop,Diversion,11.0,21.0,,4511
+2024-10-11 10:43:00,2024-10-11,10:43,Friday,510,spadina station,Operations,13.0,16.0,W,3259
+2024-10-11 11:34:00,2024-10-11,11:34,Friday,505,dundas and sherbourne,Investigation,0.0,0.0,E,4484
+2024-10-11 12:19:00,2024-10-11,12:19,Friday,510,spadina and willcocks,Security,7.0,14.0,N,8156
+2024-10-11 12:51:00,2024-10-11,12:51,Friday,504,broadview and dundas,Operations,10.0,20.0,S,4441
+2024-10-11 14:55:00,2024-10-11,14:55,Friday,512,st clair and caledonia,Operations,19.0,27.0,W,4457
+2024-10-11 15:18:00,2024-10-11,15:18,Friday,504,dundas west station,Diversion,19.0,29.0,,0
+2024-10-11 15:29:00,2024-10-11,15:29,Friday,507,humber loop,Cleaning - Unsanitary,10.0,20.0,W,4594
+2024-10-11 15:32:00,2024-10-11,15:32,Friday,505,dundas west station,Diversion,10.0,20.0,E,4560
+2024-10-11 18:19:00,2024-10-11,18:19,Friday,512,st clair and yonge,Operations,26.0,34.0,W,4585
+2024-10-11 19:08:00,2024-10-11,19:08,Friday,512,st clair and caledonia,General Delay,31.0,39.0,W,4438
+2024-10-11 19:23:00,2024-10-11,19:23,Friday,510,spadina station,Investigation,0.0,0.0,,0
+2024-10-11 19:25:00,2024-10-11,19:25,Friday,505,dundas and parliament,Rail/Switches,0.0,0.0,W,4606
+2024-10-11 19:57:00,2024-10-11,19:57,Friday,512,lansdowne and st clair,General Delay,10.0,18.0,W,4461
+2024-10-11 20:20:00,2024-10-11,20:20,Friday,501,neville loop,Emergency Services,10.0,20.0,,4485
+2024-10-11 20:27:00,2024-10-11,20:27,Friday,505,dundas and sheridan,Diversion,10.0,20.0,E,4486
+2024-10-11 21:48:00,2024-10-11,21:48,Friday,,long branch loop,Security,0.0,0.0,,0
+2024-10-11 21:59:00,2024-10-11,21:59,Friday,,leslie carhouse,Rail/Switches,0.0,0.0,,0
+2024-10-11 22:00:00,2024-10-11,22:00,Friday,506,dundas and college,Rail/Switches,0.0,0.0,,4567
+2024-10-11 22:07:00,2024-10-11,22:07,Friday,511,bathurst and harbourd,Cleaning - Unsanitary,10.0,20.0,N,4439
+2024-10-11 22:26:00,2024-10-11,22:26,Friday,501,mount dennis garage,Operations,0.0,0.0,,1066
+2024-10-11 23:10:00,2024-10-11,23:10,Friday,510,manitoba and strachan,Diversion,0.0,0.0,S,8712
+2024-10-11 23:23:00,2024-10-11,23:23,Friday,511,fleet and strachan,Diversion,23.0,33.0,N,4624
+2024-10-11 23:45:00,2024-10-11,23:45,Friday,504,distillery loop,Cleaning - Unsanitary,5.0,10.0,W,4544
+2024-10-11 23:45:00,2024-10-11,23:45,Friday,504,king and church,Held By,10.0,15.0,W,4552
+2024-10-11 23:51:00,2024-10-11,23:51,Friday,504,dundas and parliament,Security,5.0,10.0,W,4493
+2024-10-11 01:15:00,2024-10-11,01:15,Friday,510,exhibition loop,Emergency Services,0.0,0.0,,8858
+2024-10-12 02:11:00,2024-10-12,02:11,Saturday,506,parliament and dundas,Security,0.0,0.0,N,4455
+2024-10-12 05:45:00,2024-10-12,05:45,Saturday,510,strachan and fleet,Diversion,9.0,18.0,E,3236
+2024-10-12 06:00:00,2024-10-12,06:00,Saturday,501,queen and leslie,Emergency Services,0.0,0.0,E,4526
+2024-10-12 06:21:00,2024-10-12,06:21,Saturday,504,broadview and dundas,Security,28.0,48.0,S,4464
+2024-10-12 06:26:00,2024-10-12,06:26,Saturday,505,broadview and dundas,Security,12.0,22.0,S,4575
+2024-10-12 06:34:00,2024-10-12,06:34,Saturday,501,kingston loop,Security,0.0,0.0,,4532
+2024-10-12 10:40:00,2024-10-12,10:40,Saturday,504,broadview and riverdal,Collision - TTC Involved,10.0,20.0,S,4436
+2024-10-12 10:57:00,2024-10-12,10:57,Saturday,505,dundas and sorauren,General Delay,0.0,0.0,,0
+2024-10-12 11:26:00,2024-10-12,11:26,Saturday,505,dundas and spadina,Emergency Services,13.0,23.0,E,4623
+2024-10-12 11:41:00,2024-10-12,11:41,Saturday,511,leslie carhouse,Operations,10.0,20.0,S,4494
+2024-10-12 13:40:00,2024-10-12,13:40,Saturday,505,broadview station,Operations,10.0,20.0,W,4508
+2024-10-12 13:42:00,2024-10-12,13:42,Saturday,504,broadview station,Operations,10.0,20.0,E,4440
+2024-10-12 14:35:00,2024-10-12,14:35,Saturday,501,queen and alton,Mechanical,9.0,18.0,W,4531
+2024-10-12 15:37:00,2024-10-12,15:37,Saturday,512,st clair and northclif,Operations,13.0,21.0,E,4506
+2024-10-12 15:51:00,2024-10-12,15:51,Saturday,504,roncesvalles and queen,Mechanical,10.0,20.0,S,4500
+2024-10-12 15:54:00,2024-10-12,15:54,Saturday,510,spadina station,General Delay,4.0,9.0,E,8778
+2024-10-12 16:25:00,2024-10-12,16:25,Saturday,503,kingston and winthorpe,Diversion,10.0,20.0,,4517
+2024-10-12 19:20:00,2024-10-12,19:20,Saturday,512,st clair and silvertho,General Delay,11.0,19.0,W,4447
+2024-10-12 19:41:00,2024-10-12,19:41,Saturday,501,humber loop,Mechanical,10.0,20.0,E,4578
+2024-10-12 22:26:00,2024-10-12,22:26,Saturday,504,king and bathurst,Cleaning - Unsanitary,10.0,20.0,W,4595
+2024-10-12 23:09:00,2024-10-12,23:09,Saturday,505,broadview station,Mechanical,10.0,20.0,W,4508
+2024-10-12 23:20:00,2024-10-12,23:20,Saturday,510,exhibition loop,Cleaning - Unsanitary,10.0,20.0,S,8322
+2024-10-12 00:16:00,2024-10-12,00:16,Saturday,304,king and parliament,General Delay,0.0,0.0,,0
+2024-10-12 01:23:00,2024-10-12,01:23,Saturday,504,queen and leslie,Emergency Services,0.0,0.0,E,4433
+2024-10-12 01:28:00,2024-10-12,01:28,Saturday,,leslie carhouse,Security,0.0,0.0,,0
+2024-10-12 01:34:00,2024-10-12,01:34,Saturday,507,queen and sherbourne,Cleaning - Unsanitary,10.0,20.0,W,4574
+2024-10-12 01:55:00,2024-10-12,01:55,Saturday,503,queen and broadview,Cleaning - Unsanitary,10.0,20.0,E,4626
+2024-10-13 02:41:00,2024-10-13,02:41,Sunday,503,kingston road loop,Security,10.0,20.0,,4626
+2024-10-13 05:44:00,2024-10-13,05:44,Sunday,501,queen and leslie,Security,0.0,0.0,W,4476
+2024-10-13 06:03:00,2024-10-13,06:03,Sunday,504,kington loop,Security,0.0,0.0,,4613
+2024-10-13 06:46:00,2024-10-13,06:46,Sunday,505,dundas and lansdowne,Cleaning - Unsanitary,30.0,30.0,E,4529
+2024-10-13 09:08:00,2024-10-13,09:08,Sunday,511,bathurst and queen,Mechanical,12.0,22.0,W,4451
+2024-10-13 09:19:00,2024-10-13,09:19,Sunday,510,spadina and queens qua,Mechanical,10.0,20.0,N,8327
+2024-10-13 10:55:00,2024-10-13,10:55,Sunday,511,exhibition loop 100 m,Emergency Services,12.0,24.0,E,4483
+2024-10-13 11:19:00,2024-10-13,11:19,Sunday,501,woseley loop,Mechanical,8.0,16.0,E,8354
+2024-10-13 11:45:00,2024-10-13,11:45,Sunday,501,queen and roncesvalles,Emergency Services,10.0,20.0,W,4518
+2024-10-13 14:17:00,2024-10-13,14:17,Sunday,504,king and dufferin,Diversion,10.0,20.0,W,4569
+2024-10-13 14:24:00,2024-10-13,14:24,Sunday,512,lansdowne and st clair,General Delay,13.0,21.0,W,4486
+2024-10-13 15:56:00,2024-10-13,15:56,Sunday,507,lakeshore and third,Mechanical,10.0,20.0,W,4540
+2024-10-13 18:00:00,2024-10-13,18:00,Sunday,506,college and bay,Diversion,60.0,70.0,W,4552
+2024-10-13 19:28:00,2024-10-13,19:28,Sunday,512,st clair and oakwood,Operations,14.0,22.0,W,4486
+2024-10-13 19:32:00,2024-10-13,19:32,Sunday,505,broadview station,Cleaning - Unsanitary,10.0,20.0,N,4419
+2024-10-13 20:40:00,2024-10-13,20:40,Sunday,501,queen and claremont,Diversion,0.0,0.0,W,4533
+2024-10-13 22:10:00,2024-10-13,22:10,Sunday,506,high park loop,Cleaning - Unsanitary,10.0,20.0,E,4515
+2024-10-13 23:45:00,2024-10-13,23:45,Sunday,503,queen and berkley,Operations,10.0,20.0,W,4487
+2024-10-13 23:53:00,2024-10-13,23:53,Sunday,506,bathurst and bloor,Security,6.0,16.0,S,4515
+2024-10-13 00:10:00,2024-10-13,00:10,Sunday,511,bathurst and queen,General Delay,0.0,0.0,,0
+2024-10-13 00:18:00,2024-10-13,00:18,Sunday,504,dufferin gate,Cleaning - Unsanitary,10.0,20.0,E,4519
+2024-10-13 01:01:00,2024-10-13,01:01,Sunday,512,st clair and bathurst,Security,73.0,83.0,E,4516
+2024-10-13 01:11:00,2024-10-13,01:11,Sunday,505,dundas west station,Cleaning - Unsanitary,10.0,20.0,E,4444
+2024-10-14 02:00:00,2024-10-14,02:00,Monday,501,queen and spadina,Cleaning - Unsanitary,15.0,30.0,E,4550
+2024-10-14 02:03:00,2024-10-14,02:03,Monday,505,broadview station,Emergency Services,13.0,26.0,,4507
+2024-10-14 02:13:00,2024-10-14,02:13,Monday,510,exhibition loop,General Delay,36.0,46.0,E,8354
+2024-10-14 03:05:00,2024-10-14,03:05,Monday,512,st clair and oakwood,Held By,73.0,83.0,E,4453
+2024-10-14 04:37:00,2024-10-14,04:37,Monday,506,sunnyside loop,Security,0.0,0.0,,4575
+2024-10-14 04:44:00,2024-10-14,04:44,Monday,501,queen and neville park,Emergency Services,0.0,0.0,E,4470
+2024-10-14 05:04:00,2024-10-14,05:04,Monday,506,coxwell and gerrard,Emergency Services,0.0,0.0,S,4433
+2024-10-14 05:30:00,2024-10-14,05:30,Monday,305,dundas and yonge,Security,0.0,0.0,E,4463
+2024-10-14 06:05:00,2024-10-14,06:05,Monday,501,queen and elmer,Diversion,18.0,27.0,E,4509
+2024-10-14 06:06:00,2024-10-14,06:06,Monday,501,queen and lee,General Delay,17.0,27.0,E,4426
+2024-10-14 07:26:00,2024-10-14,07:26,Monday,501,queen and jarvis,Security,12.0,22.0,W,4549
+2024-10-14 08:19:00,2024-10-14,08:19,Monday,505,broadview station,Security,0.0,0.0,,4416
+2024-10-14 09:35:00,2024-10-14,09:35,Monday,504,king and dunn,Mechanical,10.0,20.0,E,4570
+2024-10-14 09:39:00,2024-10-14,09:39,Monday,504,king and bay,Mechanical,10.0,20.0,E,4567
+2024-10-14 09:44:00,2024-10-14,09:44,Monday,505,dundas and bay,Mechanical,11.0,22.0,W,4587
+2024-10-14 09:48:00,2024-10-14,09:48,Monday,503,kingston and lee,General Delay,10.0,20.0,E,4402
+2024-10-14 10:58:00,2024-10-14,10:58,Monday,505,dundas and augusta,Diversion,6.0,16.0,E,4492
+2024-10-14 11:16:00,2024-10-14,11:16,Monday,510,spadina and college,Utilized Off Route,4.0,8.0,N,8832
+2024-10-14 11:17:00,2024-10-14,11:17,Monday,510,334 bloor street,Utilized Off Route,4.0,8.0,S,8309
+2024-10-14 13:31:00,2024-10-14,13:31,Monday,503,king and church,Rail/Switches,0.0,0.0,W,4431
+2024-10-14 14:40:00,2024-10-14,14:40,Monday,506,howard park and ronces,Cleaning - Unsanitary,10.0,20.0,E,4575
+2024-10-14 19:25:00,2024-10-14,19:25,Monday,501,queen and coxwell,Collision - TTC Involved,10.0,20.0,W,4482
+2024-10-14 19:25:00,2024-10-14,19:25,Monday,501,queen and coxwell,Diversion,85.0,95.0,E,4425
+2024-10-14 19:45:00,2024-10-14,19:45,Monday,503,coxwell and queen,Diversion,12.0,22.0,,4401
+2024-10-14 20:09:00,2024-10-14,20:09,Monday,504,dufferin and liberty,General Delay,53.0,63.0,N,4405
+2024-10-14 20:19:00,2024-10-14,20:19,Monday,505,broadview station,Cleaning - Unsanitary,10.0,20.0,N,4418
+2024-10-14 20:53:00,2024-10-14,20:53,Monday,504,sunnyside loop,Security,0.0,0.0,,4554
+2024-10-14 21:35:00,2024-10-14,21:35,Monday,510,spadina and richmond,Mechanical,10.0,20.0,N,3353
+2024-10-14 22:11:00,2024-10-14,22:11,Monday,505,dundas and university,Security,10.0,20.0,E,4442
+2024-10-14 22:29:00,2024-10-14,22:29,Monday,507,lake shore and thirtee,Cleaning - Unsanitary,10.0,20.0,E,4592
+2024-10-14 23:44:00,2024-10-14,23:44,Monday,504,king and portland,Security,10.0,15.0,W,4583
+2024-10-14 00:49:00,2024-10-14,00:49,Monday,505,dundas west station,Security,10.0,20.0,W,4437
+2024-10-14 01:05:00,2024-10-14,01:05,Monday,505,mccual and dundas,Security,10.0,20.0,N,4618
+2024-10-14 01:31:00,2024-10-14,01:31,Monday,510,queens quay and dan le,Diversion,59.0,69.0,W,3217
+2024-10-14 01:59:00,2024-10-14,01:59,Monday,503,queen and woodfield,Cleaning - Unsanitary,10.0,20.0,E,4448
+2024-10-15 02:28:00,2024-10-15,02:28,Tuesday,511,queen and leslie,Security,0.0,0.0,E,4420
+2024-10-15 04:24:00,2024-10-15,04:24,Tuesday,503,queen and greenwood,Security,16.0,26.0,E,4401
+2024-10-15 04:33:00,2024-10-15,04:33,Tuesday,506,main and danforth,Emergency Services,19.0,29.0,N,4545
+2024-10-15 04:45:00,2024-10-15,04:45,Tuesday,503,queen and broadview,Held By,29.0,49.0,N,4422
+2024-10-15 04:48:00,2024-10-15,04:48,Tuesday,306,kingston road loop,Security,0.0,0.0,,4446
+2024-10-15 05:23:00,2024-10-15,05:23,Tuesday,512,college and bathurst,Mechanical,10.0,20.0,W,4456
+2024-10-15 05:43:00,2024-10-15,05:43,Tuesday,507,lakeshore and mimico,Investigation,16.0,26.0,E,4543
+2024-10-15 05:55:00,2024-10-15,05:55,Tuesday,505,leslie barns,General Delay,20.0,30.0,,4428
+2024-10-15 07:36:00,2024-10-15,07:36,Tuesday,507,long branch loop,Cleaning - Unsanitary,10.0,20.0,E,4564
+2024-10-15 07:41:00,2024-10-15,07:41,Tuesday,510,spadina station,Mechanical,4.0,8.0,S,8310
+2024-10-15 08:03:00,2024-10-15,08:03,Tuesday,501,king and spadina,Cleaning - Unsanitary,4.0,8.0,N,8206
+2024-10-15 08:24:00,2024-10-15,08:24,Tuesday,504,bathurst station,Mechanical,0.0,0.0,N,4476
+2024-10-15 08:36:00,2024-10-15,08:36,Tuesday,501,queen and sherbourne,Security,10.0,20.0,W,4527
+2024-10-15 09:14:00,2024-10-15,09:14,Tuesday,501,sunnyside loop,Emergency Services,10.0,20.0,S,4526
+2024-10-15 09:29:00,2024-10-15,09:29,Tuesday,505,dundas and broadview,Security,4.0,14.0,,4428
+2024-10-15 10:09:00,2024-10-15,10:09,Tuesday,510,spadina and harbord,Collision - TTC Involved,4.0,8.0,N,8806
+2024-10-15 11:12:00,2024-10-15,11:12,Tuesday,504,dufferin and king,Security,8.0,18.0,N,4452
+2024-10-15 13:02:00,2024-10-15,13:02,Tuesday,501,queen and wineva,Collision - TTC Involved,9.0,18.0,W,4465
+2024-10-15 13:08:00,2024-10-15,13:08,Tuesday,501,broadview and queen,Diversion,24.0,33.0,E,4570
+2024-10-15 14:01:00,2024-10-15,14:01,Tuesday,504,queen and sumach,General Delay,8.0,18.0,E,4509
+2024-10-15 14:15:00,2024-10-15,14:15,Tuesday,505,dundas and parliament,Operations,25.0,35.0,W,4594
+2024-10-15 14:23:00,2024-10-15,14:23,Tuesday,510,spadina station,Security,5.0,10.0,N,8806
+2024-10-15 14:23:00,2024-10-15,14:23,Tuesday,505,dundas and parliament,Diversion,25.0,35.0,E,4611
+2024-10-15 14:33:00,2024-10-15,14:33,Tuesday,503,charlotte loop,Collision - TTC Involved,10.0,20.0,N,4497
+2024-10-15 14:45:00,2024-10-15,14:45,Tuesday,510,spadina station,Operations,5.0,10.0,S,8331
+2024-10-15 16:31:00,2024-10-15,16:31,Tuesday,512,st clair and yonge,Investigation,78.0,86.0,E,4449
+2024-10-15 16:51:00,2024-10-15,16:51,Tuesday,501,queen and ossington,Diversion,35.0,44.0,E,4531
+2024-10-15 17:05:00,2024-10-15,17:05,Tuesday,504,king and river,Emergency Services,10.0,20.0,E,4529
+2024-10-15 17:13:00,2024-10-15,17:13,Tuesday,503,king and parliament,Diversion,48.0,58.0,E,4402
+2024-10-15 17:28:00,2024-10-15,17:28,Tuesday,505,broadview station,Operations,10.0,20.0,,4552
+2024-10-15 18:25:00,2024-10-15,18:25,Tuesday,510,730 spadina ave,Operations,5.0,10.0,N,3315
+2024-10-15 19:22:00,2024-10-15,19:22,Tuesday,501,queen and empire,Mechanical,9.0,18.0,E,4475
+2024-10-15 19:34:00,2024-10-15,19:34,Tuesday,505,broadview station,Diversion,18.0,28.0,,4611
+2024-10-15 19:36:00,2024-10-15,19:36,Tuesday,503,king and jordan,Collision - TTC Involved,30.0,40.0,E,4421
+2024-10-15 19:40:00,2024-10-15,19:40,Tuesday,504,broadview station,Diversion,26.0,36.0,,4516
+2024-10-15 19:42:00,2024-10-15,19:42,Tuesday,504,king and parliament,Diversion,23.0,33.0,W,4403
+2024-10-15 19:59:00,2024-10-15,19:59,Tuesday,507,humber loop,Security,10.0,20.0,,4576
+2024-10-15 20:11:00,2024-10-15,20:11,Tuesday,504,king and blue jays way,General Delay,0.0,0.0,E,4452
+2024-10-15 21:17:00,2024-10-15,21:17,Tuesday,506,howard park and ronces,Diversion,70.0,80.0,W,4558
+2024-10-15 21:45:00,2024-10-15,21:45,Tuesday,510,queens quay and bathur,Diversion,221.0,231.0,,8740
+2024-10-15 21:57:00,2024-10-15,21:57,Tuesday,510,spadina station,Security,10.0,20.0,N,8636
+2024-10-15 23:00:00,2024-10-15,23:00,Tuesday,506,college and bathurst,Operations,10.0,20.0,E,4467
+2024-10-15 00:06:00,2024-10-15,00:06,Tuesday,503,queen and empire,Cleaning - Unsanitary,10.0,20.0,E,4417
+2024-10-15 00:49:00,2024-10-15,00:49,Tuesday,503,bingham loop,Security,20.0,30.0,,4448
+2024-10-15 00:51:00,2024-10-15,00:51,Tuesday,510,spadina and bloor,Security,10.0,20.0,W,8740
+2024-10-15 01:13:00,2024-10-15,01:13,Tuesday,306,upper gerrard and wood,Diversion,17.0,27.0,W,4513
+2024-10-16 02:30:00,2024-10-16,02:30,Wednesday,510,queens quay and bathur,Diversion,122.0,123.0,,0
+2024-10-16 02:58:00,2024-10-16,02:58,Wednesday,505,broadview station,Emergency Services,22.0,42.0,,4594
+2024-10-16 04:33:00,2024-10-16,04:33,Wednesday,303,kingston road loop,Security,10.0,20.0,E,4459
+2024-10-16 05:27:00,2024-10-16,05:27,Wednesday,505,dundas west station,Security,20.0,20.0,,4594
+2024-10-16 05:35:00,2024-10-16,05:35,Wednesday,506,coxwell and battenberg,Security,25.0,25.0,S,4498
+2024-10-16 05:38:00,2024-10-16,05:38,Wednesday,501,bathurst and queen,Security,0.0,0.0,N,8708
+2024-10-16 08:00:00,2024-10-16,08:00,Wednesday,504,broadview and queen,Collision - TTC Involved,10.0,20.0,S,4401
+2024-10-16 09:06:00,2024-10-16,09:06,Wednesday,510,charlotte loop,Mechanical,4.0,8.0,,8697
+2024-10-16 09:09:00,2024-10-16,09:09,Wednesday,506,main street station,General Delay,0.0,0.0,N,4600
+2024-10-16 10:20:00,2024-10-16,10:20,Wednesday,510,spadina station,Mechanical,4.0,8.0,S,0
+2024-10-16 12:02:00,2024-10-16,12:02,Wednesday,503,kingston and queen,Mechanical,10.0,20.0,W,4417
+2024-10-16 12:25:00,2024-10-16,12:25,Wednesday,503,kingston rd and silver,General Delay,17.0,27.0,E,4459
+2024-10-16 12:52:00,2024-10-16,12:52,Wednesday,505,dundas and broadview,Security,10.0,20.0,N,4538
+2024-10-16 14:05:00,2024-10-16,14:05,Wednesday,509,union station,General Delay,0.0,0.0,S,0
+2024-10-16 14:30:00,2024-10-16,14:30,Wednesday,506,college and bathurst,General Delay,0.0,0.0,W,4618
+2024-10-16 16:03:00,2024-10-16,16:03,Wednesday,505,broadview and wolfrey,Cleaning - Unsanitary,10.0,20.0,S,4477
+2024-10-16 16:08:00,2024-10-16,16:08,Wednesday,512,st clair station,Operations,8.0,16.0,E,4507
+2024-10-16 16:41:00,2024-10-16,16:41,Wednesday,509,union station tunnel,Security,24.0,32.0,,4408
+2024-10-16 18:13:00,2024-10-16,18:13,Wednesday,506,gerrard and jones,Mechanical,68.0,78.0,E,4450
+2024-10-16 19:40:00,2024-10-16,19:40,Wednesday,505,dundas and jarvis,Security,8.0,18.0,,4462
+2024-10-16 20:07:00,2024-10-16,20:07,Wednesday,512,robina and st clair,Security,8.0,16.0,S,4455
+2024-10-16 21:23:00,2024-10-16,21:23,Wednesday,512,st clair station,Security,0.0,0.0,,4623
+2024-10-16 21:39:00,2024-10-16,21:39,Wednesday,505,high park loop,Security,10.0,20.0,W,4404
+2024-10-16 22:57:00,2024-10-16,22:57,Wednesday,505,broadview station,Cleaning - Unsanitary,10.0,20.0,W,4404
+2024-10-16 23:15:00,2024-10-16,23:15,Wednesday,503,kingston loop,Security,10.0,20.0,,4487
+2024-10-16 01:49:00,2024-10-16,01:49,Wednesday,504,king and portland,General Delay,7.0,12.0,W,4566
+2024-10-16 01:58:00,2024-10-16,01:58,Wednesday,600,church and esplanade,Operations,0.0,0.0,S,8818
+2024-10-17 02:15:00,2024-10-17,02:15,Thursday,505,dundas and parliament,Diversion,6.0,26.0,E,4433
+2024-10-17 05:13:00,2024-10-17,05:13,Thursday,503,kingston rd loop,Security,0.0,0.0,E,4521
+2024-10-17 05:19:00,2024-10-17,05:19,Thursday,503,sunnyside loop,Security,0.0,0.0,,4491
+2024-10-17 06:18:00,2024-10-17,06:18,Thursday,504,distillery loop,Security,10.0,20.0,,4560
+2024-10-17 06:58:00,2024-10-17,06:58,Thursday,506,carlton and mutual,Diversion,22.0,32.0,E,4467
+2024-10-17 07:58:00,2024-10-17,07:58,Thursday,504,king and sumach,Held By,15.0,25.0,E,4601
+2024-10-17 08:01:00,2024-10-17,08:01,Thursday,505,broadview station,Operations,10.0,20.0,,4613
+2024-10-17 08:04:00,2024-10-17,08:04,Thursday,504,shaw and adelaide,Held By,10.0,20.0,N,4496
+2024-10-17 08:13:00,2024-10-17,08:13,Thursday,510,eglinton garage,Mechanical,10.0,20.0,S,8716
+2024-10-17 09:11:00,2024-10-17,09:11,Thursday,506,high park loop,Operations,20.0,30.0,,4540
+2024-10-17 09:59:00,2024-10-17,09:59,Thursday,504,king and atlantic,Operations,10.0,20.0,E,4452
+2024-10-17 10:26:00,2024-10-17,10:26,Thursday,510,bathurst and forth yor,Mechanical,4.0,8.0,S,8211
+2024-10-17 10:28:00,2024-10-17,10:28,Thursday,504,king and niagara,Operations,14.0,24.0,E,4452
+2024-10-17 10:49:00,2024-10-17,10:49,Thursday,501,queen and jameson,Diversion,66.0,76.0,W,4618
+2024-10-17 11:03:00,2024-10-17,11:03,Thursday,505,dundas and markham,Diversion,20.0,30.0,E,0
+2024-10-17 11:16:00,2024-10-17,11:16,Thursday,501,queen and claremont,Held By,6.0,16.0,W,4485
+2024-10-17 11:39:00,2024-10-17,11:39,Thursday,501,queen and claremont,Held By,6.0,16.0,W,4485
+2024-10-17 11:42:00,2024-10-17,11:42,Thursday,505,dundas and dovercourt,Diversion,20.0,30.0,E,4413
+2024-10-17 11:44:00,2024-10-17,11:44,Thursday,509,queens quay and ferry,Held By,11.0,21.0,W,4450
+2024-10-17 11:46:00,2024-10-17,11:46,Thursday,506,college and euclid,Held By,7.0,22.0,E,4611
+2024-10-17 11:47:00,2024-10-17,11:47,Thursday,510,spadina and bloor,Utilized Off Route,4.0,8.0,N,8212
+2024-10-17 11:50:00,2024-10-17,11:50,Thursday,512,gunns loop,Cleaning - Unsanitary,10.0,20.0,S,4504
+2024-10-17 11:57:00,2024-10-17,11:57,Thursday,504,king and shaw,Held By,7.0,17.0,W,4496
+2024-10-17 12:07:00,2024-10-17,12:07,Thursday,505,dundas and sherbourne,Mechanical,10.0,20.0,W,4519
+2024-10-17 12:09:00,2024-10-17,12:09,Thursday,504,cherry and front,Operations,12.0,22.0,E,4440
+2024-10-17 12:48:00,2024-10-17,12:48,Thursday,507,humber loop,Cleaning - Unsanitary,10.0,20.0,W,4571
+2024-10-17 13:00:00,2024-10-17,13:00,Thursday,501,queen and beaty,Diversion,66.0,76.0,E,4493
+2024-10-17 14:55:00,2024-10-17,14:55,Thursday,510,spadina station,Cleaning - Unsanitary,8.0,16.0,W,8191
+2024-10-17 15:00:00,2024-10-17,15:00,Thursday,,roncesvalles and dunda,Security,0.0,0.0,E,0
+2024-10-17 15:53:00,2024-10-17,15:53,Thursday,512,st clair and deer park,General Delay,35.0,43.0,E,4504
+2024-10-17 16:49:00,2024-10-17,16:49,Thursday,504,king and john,Mechanical,10.0,20.0,E,4560
+2024-10-17 17:47:00,2024-10-17,17:47,Thursday,501,queen and bathurst,Collision - TTC Involved,107.0,116.0,W,4485
+2024-10-17 18:22:00,2024-10-17,18:22,Thursday,501,spadina and queen,Operations,9.0,18.0,N,4615
+2024-10-17 18:58:00,2024-10-17,18:58,Thursday,503,queen and woodfield,Cleaning - Unsanitary,10.0,20.0,W,4402
+2024-10-17 19:23:00,2024-10-17,19:23,Thursday,504,king and parliament,Rail/Switches,0.0,0.0,E,4522
+2024-10-17 21:19:00,2024-10-17,21:19,Thursday,506,carlton and church,Cleaning - Unsanitary,10.0,20.0,E,4611
+2024-10-17 22:09:00,2024-10-17,22:09,Thursday,511,exhibition loop,Security,10.0,20.0,E,4439
+2024-10-17 22:29:00,2024-10-17,22:29,Thursday,504,roncesvalles and howar,General Delay,34.0,54.0,S,4614
+2024-10-17 23:19:00,2024-10-17,23:19,Thursday,505,broadview station,Cleaning - Unsanitary,10.0,20.0,W,4591
+2024-10-17 00:35:00,2024-10-17,00:35,Thursday,506,carlton and church,Emergency Services,10.0,20.0,E,4479
+2024-10-17 01:16:00,2024-10-17,01:16,Thursday,505,kingston road loop,Security,0.0,0.0,E,4414
+2024-10-18 02:44:00,2024-10-18,02:44,Friday,506,kingston loop  outsid,Security,15.0,30.0,,4540
+2024-10-18 03:10:00,2024-10-18,03:10,Friday,501,humber loop,Security,10.0,20.0,W,4486
+2024-10-18 03:24:00,2024-10-18,03:24,Friday,506,coxwell and lower gerr,Cleaning - Unsanitary,15.0,30.0,W,4540
+2024-10-18 03:55:00,2024-10-18,03:55,Friday,501,queen and greenwood,Diversion,220.0,230.0,E,4606
+2024-10-18 04:56:00,2024-10-18,04:56,Friday,509,spadina and queens qu,Mechanical,12.0,23.0,W,4465
+2024-10-18 04:57:00,2024-10-18,04:57,Friday,503,kingston rd and glen m,Mechanical,10.0,20.0,E,4402
+2024-10-18 05:05:00,2024-10-18,05:05,Friday,505,dundas west station,General Delay,12.0,27.0,E,4553
+2024-10-18 05:15:00,2024-10-18,05:15,Friday,305,broadview and kintyre,Emergency Services,15.0,30.0,S,4437
+2024-10-18 05:23:00,2024-10-18,05:23,Friday,504,broadview and dundas,Diversion,22.0,32.0,W,4526
+2024-10-18 05:25:00,2024-10-18,05:25,Friday,504,dundas and broadview,Diversion,22.0,42.0,W,4560
+2024-10-18 05:46:00,2024-10-18,05:46,Friday,509,leslie barns,Operations,8.0,16.0,,4465
+2024-10-18 06:46:00,2024-10-18,06:46,Friday,506,high park loop,Security,56.0,65.0,E,4550
+2024-10-18 07:02:00,2024-10-18,07:02,Friday,504,king and ontario,Diversion,13.0,23.0,E,4524
+2024-10-18 07:08:00,2024-10-18,07:08,Friday,503,king and ontario,Diversion,13.0,23.0,E,4448
+2024-10-18 07:27:00,2024-10-18,07:27,Friday,510,spadina station,General Delay,10.0,20.0,,8793
+2024-10-18 12:40:00,2024-10-18,12:40,Friday,509,union station,Cleaning - Unsanitary,6.0,12.0,W,4508
+2024-10-18 13:50:00,2024-10-18,13:50,Friday,507,lakeshore  silver moo,General Delay,10.0,20.0,W,4569
+2024-10-18 14:28:00,2024-10-18,14:28,Friday,510,bathurst and fleet,Cleaning - Unsanitary,5.0,10.0,W,8782
+2024-10-18 14:32:00,2024-10-18,14:32,Friday,505,dundas and bloor,Operations,8.0,16.0,E,4510
+2024-10-18 14:43:00,2024-10-18,14:43,Friday,510,spadina and bremner,General Delay,14.0,19.0,N,8188
+2024-10-18 14:47:00,2024-10-18,14:47,Friday,512,st clair and old westo,General Delay,7.0,15.0,W,4522
+2024-10-18 14:48:00,2024-10-18,14:48,Friday,512,vaughan and st clair,General Delay,22.0,30.0,W,4525
+2024-10-18 14:50:00,2024-10-18,14:50,Friday,511,cne loop,Emergency Services,10.0,20.0,N,4464
+2024-10-18 15:28:00,2024-10-18,15:28,Friday,505,dundas and university,General Delay,0.0,0.0,,0
+2024-10-18 16:03:00,2024-10-18,16:03,Friday,512,st clair station,General Delay,28.0,36.0,W,4525
+2024-10-18 16:04:00,2024-10-18,16:04,Friday,505,victoria park station,General Delay,10.0,20.0,W,4510
+2024-10-18 16:52:00,2024-10-18,16:52,Friday,510,spadina station,Mechanical,5.0,10.0,W,8127
+2024-10-18 17:03:00,2024-10-18,17:03,Friday,512,gunns loop,General Delay,18.0,26.0,E,4456
+2024-10-18 17:07:00,2024-10-18,17:07,Friday,512,st clair and dufferin,General Delay,7.0,17.0,W,4493
+2024-10-18 17:47:00,2024-10-18,17:47,Friday,501,neville park loop,Security,0.0,0.0,W,4567
+2024-10-18 19:11:00,2024-10-18,19:11,Friday,505,dundas west station,Security,10.0,20.0,,4492
+2024-10-18 19:29:00,2024-10-18,19:29,Friday,512,st clair and earlscour,General Delay,24.0,32.0,E,4450
+2024-10-18 19:30:00,2024-10-18,19:30,Friday,512,vaughan and st clair,General Delay,11.0,19.0,W,4493
+2024-10-18 19:48:00,2024-10-18,19:48,Friday,512,vaughan and st clair,General Delay,9.0,17.0,W,4523
+2024-10-18 20:01:00,2024-10-18,20:01,Friday,504,king and queen,General Delay,6.0,16.0,N,4520
+2024-10-18 22:06:00,2024-10-18,22:06,Friday,503,york and king,Cleaning - Unsanitary,10.0,20.0,E,4500
+2024-10-18 23:29:00,2024-10-18,23:29,Friday,510,bathurst and fleet,General Delay,0.0,0.0,S,0
+2024-10-18 00:48:00,2024-10-18,00:48,Friday,503,kingston road loop,Emergency Services,10.0,20.0,,4605
+2024-10-18 01:16:00,2024-10-18,01:16,Friday,505,sunnyside loop,Security,0.0,0.0,S,4566
+2024-10-18 01:23:00,2024-10-18,01:23,Friday,504,king and portland,General Delay,29.0,34.0,W,4623
+2024-10-18 01:57:00,2024-10-18,01:57,Friday,501,neville park loop,Emergency Services,0.0,0.0,E,4600
+2024-10-19 02:08:00,2024-10-19,02:08,Saturday,301,queen and kingston,Diversion,40.0,55.0,E,4535
+2024-10-19 02:30:00,2024-10-19,02:30,Saturday,501,sunnyside loop,Emergency Services,0.0,0.0,W,4586
+2024-10-19 03:46:00,2024-10-19,03:46,Saturday,501,long branch loop,Cleaning - Unsanitary,15.0,30.0,N,4550
+2024-10-19 04:30:00,2024-10-19,04:30,Saturday,501,long branch loop,Emergency Services,0.0,0.0,,7264
+2024-10-19 04:45:00,2024-10-19,04:45,Saturday,511,1227 queen street,General Delay,10.0,20.0,N,4467
+2024-10-19 04:50:00,2024-10-19,04:50,Saturday,301,lakeshore and 22nd str,Emergency Services,8.0,19.0,W,4625
+2024-10-19 04:59:00,2024-10-19,04:59,Saturday,310,spadina and king,Diversion,18.0,27.0,S,8764
+2024-10-19 05:33:00,2024-10-19,05:33,Saturday,501,queen and logan,Emergency Services,7.0,15.0,E,4518
+2024-10-19 05:39:00,2024-10-19,05:39,Saturday,512,st clair station,Operations,10.0,20.0,,4508
+2024-10-19 06:21:00,2024-10-19,06:21,Saturday,501,neville loop,Diversion,0.0,0.0,,4442
+2024-10-19 06:31:00,2024-10-19,06:31,Saturday,510,spadina and nassau,Investigation,6.0,15.0,N,8632
+2024-10-19 07:34:00,2024-10-19,07:34,Saturday,504,dufferin gate loop,Emergency Services,10.0,20.0,E,4607
+2024-10-19 07:45:00,2024-10-19,07:45,Saturday,504,distillery loop,Cleaning - Unsanitary,10.0,20.0,W,4613
+2024-10-19 09:55:00,2024-10-19,09:55,Saturday,510,spadina and bremner,General Delay,0.0,0.0,W,8152
+2024-10-19 10:26:00,2024-10-19,10:26,Saturday,501,lansdowne and dundas,Utilized Off Route,10.0,20.0,N,4557
+2024-10-19 11:05:00,2024-10-19,11:05,Saturday,510,spadina and dundas,Investigation,10.0,17.0,S,8863
+2024-10-19 11:30:00,2024-10-19,11:30,Saturday,511,fleet and bathurst,Mechanical,10.0,20.0,N,4437
+2024-10-19 12:35:00,2024-10-19,12:35,Saturday,512,st clair station,Cleaning - Unsanitary,8.0,16.0,S,4412
+2024-10-19 15:13:00,2024-10-19,15:13,Saturday,512,st clair and bathurst,Operations,8.0,16.0,E,4417
+2024-10-19 15:15:00,2024-10-19,15:15,Saturday,512,st clair and keele,Operations,11.0,19.0,E,4624
+2024-10-19 16:13:00,2024-10-19,16:13,Saturday,512,st clair and weston,Operations,9.0,17.0,W,4531
+2024-10-19 16:36:00,2024-10-19,16:36,Saturday,510,the queensway and high,Mechanical,5.0,10.0,W,3343
+2024-10-19 17:47:00,2024-10-19,17:47,Saturday,501,queen and silver birch,Cleaning - Unsanitary,10.0,20.0,N,4628
+2024-10-19 17:57:00,2024-10-19,17:57,Saturday,504,king and church,Operations,10.0,26.0,W,4549
+2024-10-19 18:42:00,2024-10-19,18:42,Saturday,512,st clair west station,Operations,8.0,16.0,W,4413
+2024-10-19 21:10:00,2024-10-19,21:10,Saturday,505,dundas station,Security,0.0,0.0,,4606
+2024-10-19 23:55:00,2024-10-19,23:55,Saturday,506,college and lansdowne,General Delay,0.0,0.0,,0
+2024-10-19 01:17:00,2024-10-19,01:17,Saturday,506,main station main and,General Delay,13.0,23.0,S,4596
+2024-10-19 01:42:00,2024-10-19,01:42,Saturday,501,the queensway and glen,Emergency Services,0.0,0.0,,4585
+2024-10-20 03:24:00,2024-10-20,03:24,Sunday,312,st clair and yonge,Emergency Services,26.0,46.0,E,4417
+2024-10-20 05:24:00,2024-10-20,05:24,Sunday,501,leslie and queen,Security,0.0,0.0,S,4463
+2024-10-20 05:34:00,2024-10-20,05:34,Sunday,512,queen and leslie,Emergency Services,26.0,46.0,E,4417
+2024-10-20 05:48:00,2024-10-20,05:48,Sunday,505,dundas and howard park,General Delay,0.0,0.0,W,0
+2024-10-20 05:48:00,2024-10-20,05:48,Sunday,505,dundas and howard park,General Delay,0.0,0.0,,0
+2024-10-20 05:58:00,2024-10-20,05:58,Sunday,501,queen and broadview,Diversion,14.0,24.0,E,4589
+2024-10-20 06:00:00,2024-10-20,06:00,Sunday,510,spadina station,General Delay,10.0,20.0,W,3323
+2024-10-20 07:30:00,2024-10-20,07:30,Sunday,511,king and church,Investigation,0.0,0.0,W,4510
+2024-10-20 08:16:00,2024-10-20,08:16,Sunday,503,bingham loop,Operations,10.0,20.0,,4517
+2024-10-20 08:36:00,2024-10-20,08:36,Sunday,501,russell carhouse,Cleaning - Unsanitary,10.0,20.0,N,4512
+2024-10-20 08:45:00,2024-10-20,08:45,Sunday,505,dundas west station,Emergency Services,17.0,27.0,W,4586
+2024-10-20 08:53:00,2024-10-20,08:53,Sunday,503,queen and mcgee,Held By,7.0,17.0,E,4484
+2024-10-20 08:59:00,2024-10-20,08:59,Sunday,501,leslie barns,Held By,30.0,20.0,N,4459
+2024-10-20 09:52:00,2024-10-20,09:52,Sunday,501,leslie barns,Held By,17.0,12.0,,4521
+2024-10-20 10:45:00,2024-10-20,10:45,Sunday,505,leslie barns,Held By,17.0,8.0,,4499
+2024-10-20 11:34:00,2024-10-20,11:34,Sunday,509,leslie barns,Held By,6.0,13.0,,4429
+2024-10-20 14:50:00,2024-10-20,14:50,Sunday,506,lansdowne and college,Operations,13.0,23.0,N,4573
+2024-10-20 15:17:00,2024-10-20,15:17,Sunday,501,queen and tecumseth,Cleaning - Unsanitary,10.0,20.0,E,4589
+2024-10-20 15:59:00,2024-10-20,15:59,Sunday,506,main station,General Delay,0.0,0.0,N,0
+2024-10-20 16:07:00,2024-10-20,16:07,Sunday,503,broadview and dundas,Mechanical,10.0,20.0,N,4500
+2024-10-20 16:39:00,2024-10-20,16:39,Sunday,509,queens quay and rees,Security,7.0,14.0,W,4614
+2024-10-20 17:02:00,2024-10-20,17:02,Sunday,510,bathurst and fleet,Utilized Off Route,5.0,10.0,N,3217
+2024-10-20 17:09:00,2024-10-20,17:09,Sunday,510,45 manitoba drive,Utilized Off Route,5.0,10.0,S,8817
+2024-10-20 17:50:00,2024-10-20,17:50,Sunday,501,queen and spadina,Diversion,10.0,20.0,E,4512
+2024-10-20 18:00:00,2024-10-20,18:00,Sunday,510,spadina and queen,Diversion,60.0,65.0,N,8644
+2024-10-20 18:38:00,2024-10-20,18:38,Sunday,504,spadina and king,Diversion,71.0,81.0,,4449
+2024-10-20 18:43:00,2024-10-20,18:43,Sunday,505,dundas and beverly,Emergency Services,26.0,36.0,E,4485
+2024-10-20 19:03:00,2024-10-20,19:03,Sunday,510,spadina station,Security,5.0,10.0,,8766
+2024-10-20 19:13:00,2024-10-20,19:13,Sunday,501,king and john,Diversion,20.0,25.0,,0
+2024-10-20 19:37:00,2024-10-20,19:37,Sunday,501,king and parliament,Security,0.0,0.0,E,4516
+2024-10-20 19:44:00,2024-10-20,19:44,Sunday,506,carlton and church,Cleaning - Unsanitary,9.0,18.0,W,4549
+2024-10-20 19:58:00,2024-10-20,19:58,Sunday,510,exhibition loop,Emergency Services,7.0,15.0,E,8169
+2024-10-20 20:09:00,2024-10-20,20:09,Sunday,505,dundas west station,Cleaning - Unsanitary,10.0,20.0,E,4489
+2024-10-20 20:41:00,2024-10-20,20:41,Sunday,504,5a king street east,Cleaning - Unsanitary,10.0,15.0,E,4582
+2024-10-20 22:56:00,2024-10-20,22:56,Sunday,506,college and lansdowne,Mechanical,10.0,20.0,E,4419
+2024-10-20 00:20:00,2024-10-20,00:20,Sunday,504,king and yonge,Held By,5.0,10.0,E,4524
+2024-10-20 00:21:00,2024-10-20,00:21,Sunday,503,queen and leslie,Security,10.0,20.0,E,4453
+2024-10-20 00:47:00,2024-10-20,00:47,Sunday,501,spadina and king,Operations,0.0,0.0,S,4451
+2024-10-20 00:52:00,2024-10-20,00:52,Sunday,504,dundas west station,Operations,23.0,33.0,E,4565
+2024-10-20 00:54:00,2024-10-20,00:54,Sunday,501,queen and augusta,Held By,5.0,15.0,W,4545
+2024-10-21 02:09:00,2024-10-21,02:09,Monday,505,broadview station,Cleaning - Unsanitary,10.0,20.0,W,4586
+2024-10-21 02:46:00,2024-10-21,02:46,Monday,504,king and church,Operations,20.0,40.0,W,4513
+2024-10-21 04:15:00,2024-10-21,04:15,Monday,506,howard park and indian,Cleaning - Unsanitary,10.0,20.0,E,4464
+2024-10-21 05:21:00,2024-10-21,05:21,Monday,506,kingston loop inside,Security,35.0,55.0,,4618
+2024-10-21 08:12:00,2024-10-21,08:12,Monday,,russell yard,General Delay,0.0,0.0,,0
+2024-10-21 08:13:00,2024-10-21,08:13,Monday,504,king and church,Operations,10.0,20.0,E,4458
+2024-10-21 11:04:00,2024-10-21,11:04,Monday,505,dundas and sherbourne,Mechanical,10.0,20.0,W,4405
+2024-10-21 11:17:00,2024-10-21,11:17,Monday,504,dufferin gate loop,Operations,0.0,0.0,S,4554
+2024-10-21 11:54:00,2024-10-21,11:54,Monday,512,64 st clair avenue wes,Diversion,0.0,0.0,,0
+2024-10-21 12:23:00,2024-10-21,12:23,Monday,504,broadview station,Cleaning - Unsanitary,10.0,20.0,N,4461
+2024-10-21 13:27:00,2024-10-21,13:27,Monday,510,cne loop,Emergency Services,4.0,8.0,,3298
+2024-10-21 13:32:00,2024-10-21,13:32,Monday,504,howard park and ronces,Mechanical,10.0,20.0,N,4563
+2024-10-21 14:22:00,2024-10-21,14:22,Monday,999,queen and king,Collision - TTC Involved,5.0,10.0,E,8773
+2024-10-21 19:39:00,2024-10-21,19:39,Monday,504,king and simcoe,Operations,10.0,20.0,W,4594
+2024-10-21 19:48:00,2024-10-21,19:48,Monday,503,church and king,Cleaning - Unsanitary,10.0,20.0,W,4459
+2024-10-21 20:53:00,2024-10-21,20:53,Monday,505,broadview station,Emergency Services,15.0,25.0,,4406
+2024-10-21 20:57:00,2024-10-21,20:57,Monday,504,king and sumach,Operations,47.0,52.0,E,4487
+2024-10-21 21:06:00,2024-10-21,21:06,Monday,503,king and sumach,Diversion,47.0,57.0,E,4475
+2024-10-21 22:37:00,2024-10-21,22:37,Monday,509,king and parliment,Security,0.0,0.0,E,4412
+2024-10-21 00:19:00,2024-10-21,00:19,Monday,511,exhibition loop,Emergency Services,10.0,20.0,,4613
+2024-10-22 02:42:00,2024-10-22,02:42,Tuesday,512,st clair  yonge  ave,Diversion,0.0,0.0,,0
+2024-10-22 02:44:00,2024-10-22,02:44,Tuesday,,russell yard,General Delay,0.0,0.0,,0
+2024-10-22 03:00:00,2024-10-22,03:00,Tuesday,504,queen and leslie,Security,0.0,0.0,E,4419
+2024-10-22 03:18:00,2024-10-22,03:18,Tuesday,512,kingston loop,Emergency Services,0.0,0.0,,4442
+2024-10-22 04:22:00,2024-10-22,04:22,Tuesday,504,754 queen st,Mechanical,10.0,20.0,W,4573
+2024-10-22 06:27:00,2024-10-22,06:27,Tuesday,501,queen and cameron,Collision - TTC Involved,16.0,26.0,W,4406
+2024-10-22 07:24:00,2024-10-22,07:24,Tuesday,504,dundas west station,Security,10.0,20.0,,4541
+2024-10-22 07:30:00,2024-10-22,07:30,Tuesday,504,dundas west station,Held By,12.0,22.0,W,4557
+2024-10-22 14:55:00,2024-10-22,14:55,Tuesday,510,cne loop,Mechanical,8.0,16.0,E,8337
+2024-10-22 15:14:00,2024-10-22,15:14,Tuesday,501,parliament and king,Security,9.0,18.0,N,4510
+2024-10-22 15:31:00,2024-10-22,15:31,Tuesday,506,queens park,Security,0.0,0.0,,4495
+2024-10-22 16:04:00,2024-10-22,16:04,Tuesday,501,queen and dunn,Security,9.0,18.0,E,4535
+2024-10-22 19:42:00,2024-10-22,19:42,Tuesday,506,main street station,Security,10.0,20.0,E,4456
+2024-10-22 20:16:00,2024-10-22,20:16,Tuesday,505,dundas and sherbourne,Diversion,25.0,35.0,E,4469
+2024-10-22 22:45:00,2024-10-22,22:45,Tuesday,501,queen and ossington,Held By,3.0,13.0,E,4402
+2024-10-22 23:29:00,2024-10-22,23:29,Tuesday,511,bathurst and fort york,Held By,18.0,0.0,N,4507
+2024-10-22 23:55:00,2024-10-22,23:55,Tuesday,504,king and yonge,Cleaning - Unsanitary,60.0,70.0,W,4569
+2024-10-22 00:36:00,2024-10-22,00:36,Tuesday,600,st clair station,Operations,0.0,0.0,,8692
+2024-10-23 03:26:00,2024-10-23,03:26,Wednesday,512,st clair and yonge  a,Diversion,0.0,0.0,,0
+2024-10-23 04:48:00,2024-10-23,04:48,Wednesday,510,queenwayd and parkside,Operations,5.0,10.0,E,8318
+2024-10-23 05:06:00,2024-10-23,05:06,Wednesday,503,kingston rd loop,Security,0.0,0.0,E,4484
+2024-10-23 05:29:00,2024-10-23,05:29,Wednesday,506,coxwell and gerrard,Security,26.0,46.0,S,4523
+2024-10-23 05:53:00,2024-10-23,05:53,Wednesday,506,coxwell and gerrard,Security,0.0,0.0,S,4470
+2024-10-23 08:18:00,2024-10-23,08:18,Wednesday,512,st clair and vaughan,Operations,10.0,20.0,E,4403
+2024-10-23 08:18:00,2024-10-23,08:18,Wednesday,512,bathurst station,Operations,10.0,20.0,E,4403
+2024-10-23 09:40:00,2024-10-23,09:40,Wednesday,506,college and lansdowne,Operations,10.0,20.0,E,4473
+2024-10-23 10:50:00,2024-10-23,10:50,Wednesday,510,spadina and nassau,Mechanical,4.0,8.0,S,8728
+2024-10-23 11:03:00,2024-10-23,11:03,Wednesday,505,bay and n of dundas,Emergency Services,10.0,20.0,N,4573
+2024-10-23 13:32:00,2024-10-23,13:32,Wednesday,501,queen and dunn,Emergency Services,118.0,127.0,E,4555
+2024-10-23 13:54:00,2024-10-23,13:54,Wednesday,512,st clair and vaughan,Diversion,196.0,204.0,E,4499
+2024-10-23 14:04:00,2024-10-23,14:04,Wednesday,506,howard park and ronces,Mechanical,10.0,20.0,S,4586
+2024-10-23 14:31:00,2024-10-23,14:31,Wednesday,505,dundas and brock,General Delay,0.0,0.0,W,0
+2024-10-23 14:54:00,2024-10-23,14:54,Wednesday,504,king and lower river,Emergency Services,10.0,20.0,E,4624
+2024-10-23 15:41:00,2024-10-23,15:41,Wednesday,506,main station,Cleaning - Unsanitary,10.0,20.0,,4607
+2024-10-23 16:09:00,2024-10-23,16:09,Wednesday,504,king and blue jays way,Security,10.0,20.0,W,4621
+2024-10-23 16:55:00,2024-10-23,16:55,Wednesday,503,king and parliament,Security,10.0,20.0,S,4424
+2024-10-23 18:00:00,2024-10-23,18:00,Wednesday,511,bathurst station,Held By,25.0,35.0,S,4414
+2024-10-23 18:31:00,2024-10-23,18:31,Wednesday,504,king and york,General Delay,0.0,0.0,E,4532
+2024-10-23 18:44:00,2024-10-23,18:44,Wednesday,512,st clair and bathurst,General Delay,0.0,0.0,W,0
+2024-10-23 19:48:00,2024-10-23,19:48,Wednesday,505,dundas and victoria,Security,0.0,0.0,W,4412
+2024-10-23 19:51:00,2024-10-23,19:51,Wednesday,507,lakeshore and 22nd str,Security,10.0,20.0,W,4566
+2024-10-23 19:59:00,2024-10-23,19:59,Wednesday,501,humber loop,Cleaning - Unsanitary,10.0,20.0,W,4461
+2024-10-23 20:50:00,2024-10-23,20:50,Wednesday,506,gerrard and sumach,General Delay,0.0,0.0,,0
+2024-10-23 21:20:00,2024-10-23,21:20,Wednesday,512,bathurst station,Emergency Services,8.0,16.0,,4611
+2024-10-23 22:04:00,2024-10-23,22:04,Wednesday,506,gerrard and sumach,General Delay,10.0,20.0,W,4469
+2024-10-23 01:03:00,2024-10-23,01:03,Wednesday,501,queensway and ellis,Emergency Services,10.0,20.0,E,4464
+2024-10-23 01:13:00,2024-10-23,01:13,Wednesday,506,roncesvalles and queen,Security,0.0,0.0,S,4613
+2024-10-24 05:37:00,2024-10-24,05:37,Thursday,504,kingston loop,Security,0.0,0.0,,4622
+2024-10-24 05:48:00,2024-10-24,05:48,Thursday,512,st clair w station,Collision - TTC Involved,0.0,0.0,,3634
+2024-10-24 06:13:00,2024-10-24,06:13,Thursday,506,coxwell and gerrard,Emergency Services,0.0,0.0,S,4415
+2024-10-24 06:21:00,2024-10-24,06:21,Thursday,501,kingston loop,Emergency Services,0.0,0.0,S,4508
+2024-10-24 08:34:00,2024-10-24,08:34,Thursday,506,howard park and ronces,Operations,70.0,18.0,E,4547
+2024-10-24 08:57:00,2024-10-24,08:57,Thursday,504,roncesvalles and howar,Emergency Services,10.0,20.0,N,4419
+2024-10-24 08:57:00,2024-10-24,08:57,Thursday,504,king and jarvis,Mechanical,10.0,20.0,E,4596
+2024-10-24 10:01:00,2024-10-24,10:01,Thursday,501,queen and parliament,Collision - TTC Involved,0.0,0.0,W,8127
+2024-10-24 10:18:00,2024-10-24,10:18,Thursday,512,oakwood and robina,Mechanical,4.0,8.0,N,1079
+2024-10-24 10:22:00,2024-10-24,10:22,Thursday,510,spadina and bloor,Operations,4.0,8.0,S,8762
+2024-10-24 11:04:00,2024-10-24,11:04,Thursday,504,roncesvalles and queen,Diversion,50.0,60.0,W,4549
+2024-10-24 12:04:00,2024-10-24,12:04,Thursday,505,roncesvalles yard,Operations,4.0,19.0,,4570
+2024-10-24 12:35:00,2024-10-24,12:35,Thursday,501,roncesvalles yard,Held By,8.0,23.0,W,4542
+2024-10-24 14:46:00,2024-10-24,14:46,Thursday,501,king and peter,Operations,9.0,18.0,W,4436
+2024-10-24 14:51:00,2024-10-24,14:51,Thursday,512,st clair and old westo,Cleaning - Unsanitary,8.0,10.0,W,4623
+2024-10-24 15:10:00,2024-10-24,15:10,Thursday,512,bathurst and follis,Diversion,8.0,16.0,S,4403
+2024-10-24 17:32:00,2024-10-24,17:32,Thursday,512,lansdowne loop,Security,8.0,10.0,E,4404
+2024-10-24 18:07:00,2024-10-24,18:07,Thursday,510,spadina and nassau,Mechanical,5.0,10.0,N,8762
+2024-10-24 19:35:00,2024-10-24,19:35,Thursday,501,nevlille loop,General Delay,9.0,18.0,,4461
+2024-10-24 19:58:00,2024-10-24,19:58,Thursday,501,neville park loop,Mechanical,10.0,20.0,W,4625
+2024-10-24 20:54:00,2024-10-24,20:54,Thursday,506,sunnyside loop,Emergency Services,0.0,0.0,,4603
+2024-10-24 22:23:00,2024-10-24,22:23,Thursday,505,dundas west station,Security,16.0,26.0,,4621
+2024-10-24 23:17:00,2024-10-24,23:17,Thursday,506,gerrard and logan,Security,10.0,20.0,E,4438
+2024-10-25 02:13:00,2024-10-25,02:13,Friday,505,dundas and dufferin,Security,20.0,40.0,E,4621
+2024-10-25 02:40:00,2024-10-25,02:40,Friday,501,king and atlantic,Emergency Services,15.0,30.0,W,4564
+2024-10-25 03:00:00,2024-10-25,03:00,Friday,504,distillery loop,Cleaning - Unsanitary,10.0,20.0,E,4549
+2024-10-25 05:10:00,2024-10-25,05:10,Friday,505,dundas and sherbourne,Security,7.0,37.0,E,4452
+2024-10-25 06:31:00,2024-10-25,06:31,Friday,504,leslie carhouse,Mechanical,10.0,20.0,E,4403
+2024-10-25 06:57:00,2024-10-25,06:57,Friday,511,cne loop,Security,10.0,20.0,,4626
+2024-10-25 07:25:00,2024-10-25,07:25,Friday,505,dundas west station,Security,16.0,26.0,,4414
+2024-10-25 09:58:00,2024-10-25,09:58,Friday,505,leslie carhouse,Held By,13.0,19.0,W,4495
+2024-10-25 10:03:00,2024-10-25,10:03,Friday,501,church and adelaide,Diversion,25.0,35.0,N,4607
+2024-10-25 10:05:00,2024-10-25,10:05,Friday,505,dundas and manning,Security,12.0,22.0,W,4614
+2024-10-25 10:07:00,2024-10-25,10:07,Friday,501,church and adelaide,Overhead,25.0,35.0,E,4558
+2024-10-25 10:14:00,2024-10-25,10:14,Friday,,queen and dufferin,Security,0.0,0.0,,0
+2024-10-25 10:52:00,2024-10-25,10:52,Friday,504,distillery loop,Emergency Services,10.0,20.0,,4547
+2024-10-25 11:02:00,2024-10-25,11:02,Friday,504,king and university,Collision - TTC Involved,10.0,20.0,E,4446
+2024-10-25 11:04:00,2024-10-25,11:04,Friday,508,roncesvalles yard,Operations,5.0,25.0,,4549
+2024-10-25 11:11:00,2024-10-25,11:11,Friday,511,bathurst station,Emergency Services,6.0,16.0,,4415
+2024-10-25 11:45:00,2024-10-25,11:45,Friday,510,exhibition loop,Mechanical,9.0,18.0,N,8155
+2024-10-25 14:01:00,2024-10-25,14:01,Friday,511,bathurst and niagara,Collision - TTC Involved,40.0,50.0,S,4415
+2024-10-25 14:19:00,2024-10-25,14:19,Friday,504,roncesvalles and galle,Collision - TTC Involved,10.0,20.0,N,4440
+2024-10-25 16:10:00,2024-10-25,16:10,Friday,510,spadina and bloor,Collision - TTC Involved,5.0,10.0,N,8189
+2024-10-25 16:34:00,2024-10-25,16:34,Friday,510,fleet and strachan,Mechanical,5.0,10.0,N,3222
+2024-10-25 18:28:00,2024-10-25,18:28,Friday,510,lakeshore and british,Mechanical,0.0,0.0,W,8127
+2024-10-25 18:35:00,2024-10-25,18:35,Friday,501,queen and jones,Operations,0.0,0.0,W,4500
+2024-10-25 18:40:00,2024-10-25,18:40,Friday,503,queen and leslie,Diversion,25.0,35.0,W,4517
+2024-10-25 18:42:00,2024-10-25,18:42,Friday,501,queen and leslie,Diversion,25.0,34.0,W,4532
+2024-10-25 19:04:00,2024-10-25,19:04,Friday,501,spadina and king,Operations,65.0,74.0,S,4619
+2024-10-25 19:28:00,2024-10-25,19:28,Friday,512,st clair and wychwood,Security,69.0,77.0,E,4433
+2024-10-25 20:01:00,2024-10-25,20:01,Friday,504,king and tecumseth,Cleaning - Unsanitary,10.0,20.0,W,4575
+2024-10-25 20:02:00,2024-10-25,20:02,Friday,504,spadina and king,Emergency Services,10.0,20.0,S,4570
+2024-10-25 21:15:00,2024-10-25,21:15,Friday,504,spadina and front,Cleaning - Unsanitary,5.0,10.0,S,4570
+2024-10-25 21:19:00,2024-10-25,21:19,Friday,501,entire route,General Delay,0.0,0.0,,0
+2024-10-25 22:26:00,2024-10-25,22:26,Friday,506,yonge and college,Diversion,30.0,40.0,,4559
+2024-10-25 22:38:00,2024-10-25,22:38,Friday,504,king and spadina to ba,General Delay,0.0,0.0,,0
+2024-10-25 23:20:00,2024-10-25,23:20,Friday,512,st clair and weston,General Delay,18.0,28.0,W,4467
+2024-10-25 00:59:00,2024-10-25,00:59,Friday,511,exhibition loop,Emergency Services,10.0,20.0,,4415
+2024-10-25 01:33:00,2024-10-25,01:33,Friday,506,coxwell loop,Emergency Services,0.0,0.0,,4503
+2024-10-25 01:37:00,2024-10-25,01:37,Friday,501,queen and pape,Security,0.0,0.0,E,4577
+2024-10-25 01:43:00,2024-10-25,01:43,Friday,505,sunnyside loop,Security,0.0,0.0,,4591
+2024-10-26 03:20:00,2024-10-26,03:20,Saturday,504,sunnyside loop,Security,0.0,0.0,,4571
+2024-10-26 03:43:00,2024-10-26,03:43,Saturday,501,shaw and king,Emergency Services,10.0,20.0,N,4579
+2024-10-26 03:49:00,2024-10-26,03:49,Saturday,503,sunnyside loop,Security,10.0,20.0,,4517
+2024-10-26 04:00:00,2024-10-26,04:00,Saturday,501,queensway and south ki,Cleaning - Unsanitary,15.0,30.0,W,4606
+2024-10-26 04:02:00,2024-10-26,04:02,Saturday,304,yonge and king,General Delay,0.0,0.0,E,0
+2024-10-26 04:06:00,2024-10-26,04:06,Saturday,503,king and queen,Security,10.0,20.0,N,4459
+2024-10-26 05:05:00,2024-10-26,05:05,Saturday,503,bingham loop,Operations,10.0,20.0,W,4479
+2024-10-26 05:38:00,2024-10-26,05:38,Saturday,501,queen and leslie,Emergency Services,15.0,30.0,E,4484
+2024-10-26 05:45:00,2024-10-26,05:45,Saturday,507,roncesvalles and queen,Emergency Services,15.0,30.0,,4551
+2024-10-26 06:20:00,2024-10-26,06:20,Saturday,504,shaw and king,Security,10.0,20.0,N,4423
+2024-10-26 07:03:00,2024-10-26,07:03,Saturday,600,st clair and avenue,Diversion,898.0,905.0,E,1326
+2024-10-26 09:05:00,2024-10-26,09:05,Saturday,501,humber loop,Mechanical,10.0,20.0,E,4503
+2024-10-26 12:46:00,2024-10-26,12:46,Saturday,504,king and dufferin,Overhead,0.0,0.0,W,4519
+2024-10-26 14:01:00,2024-10-26,14:01,Saturday,512,vaughan and st clair,Operations,8.0,16.0,S,4512
+2024-10-26 14:03:00,2024-10-26,14:03,Saturday,512,gunns loop,Operations,9.0,17.0,E,4607
+2024-10-26 14:35:00,2024-10-26,14:35,Saturday,510,charlotte and oxley,Operations,5.0,10.0,S,8728
+2024-10-26 14:49:00,2024-10-26,14:49,Saturday,504,roncevalles and queen,Operations,19.0,29.0,N,4531
+2024-10-26 15:05:00,2024-10-26,15:05,Saturday,504,king and university,Operations,10.0,20.0,E,4436
+2024-10-26 15:22:00,2024-10-26,15:22,Saturday,501,humber loop,Cleaning - Unsanitary,10.0,20.0,E,4590
+2024-10-26 15:26:00,2024-10-26,15:26,Saturday,501,queen and jones,Mechanical,10.0,20.0,W,4526
+2024-10-26 15:28:00,2024-10-26,15:28,Saturday,510,exhibition loop,Mechanical,5.0,10.0,E,8334
+2024-10-26 16:10:00,2024-10-26,16:10,Saturday,503,church and king,Diversion,55.0,65.0,W,4432
+2024-10-26 16:26:00,2024-10-26,16:26,Saturday,501,king and church,Diversion,55.0,65.0,E,0
+2024-10-26 16:40:00,2024-10-26,16:40,Saturday,501,queen and jones,Mechanical,10.0,20.0,W,4526
+2024-10-26 16:46:00,2024-10-26,16:46,Saturday,505,dundas and yonge,Diversion,0.0,0.0,,4593
+2024-10-26 17:20:00,2024-10-26,17:20,Saturday,505,broadview station,Cleaning - Unsanitary,7.0,14.0,W,4541
+2024-10-26 17:29:00,2024-10-26,17:29,Saturday,505,broadview and danforth,Cleaning - Unsanitary,8.0,16.0,W,4547
+2024-10-26 17:50:00,2024-10-26,17:50,Saturday,511,fleet loop,Security,8.0,16.0,S,4500
+2024-10-26 17:59:00,2024-10-26,17:59,Saturday,501,queen and bathurst,Diversion,10.0,20.0,W,4518
+2024-10-26 18:37:00,2024-10-26,18:37,Saturday,505,dundas and mccaul,General Delay,0.0,0.0,,0
+2024-10-26 18:39:00,2024-10-26,18:39,Saturday,504,king and sherbourne,General Delay,0.0,0.0,,0
+2024-10-26 18:44:00,2024-10-26,18:44,Saturday,501,spadina and oxley,Emergency Services,10.0,20.0,N,4618
+2024-10-26 19:26:00,2024-10-26,19:26,Saturday,501,queen and woodfield,Operations,10.0,20.0,E,4427
+2024-10-26 19:39:00,2024-10-26,19:39,Saturday,512,st clair station,Emergency Services,20.0,25.0,,8374
+2024-10-26 20:02:00,2024-10-26,20:02,Saturday,505,dundas and bay,Cleaning - Unsanitary,8.0,16.0,E,4509
+2024-10-26 20:44:00,2024-10-26,20:44,Saturday,501,humber loop,Emergency Services,0.0,0.0,,3369
+2024-10-26 20:58:00,2024-10-26,20:58,Saturday,503,kingston and woodbine,Emergency Services,10.0,20.0,E,4424
+2024-10-26 21:57:00,2024-10-26,21:57,Saturday,506,college and yonge,Investigation,10.0,20.0,W,4603
+2024-10-26 22:33:00,2024-10-26,22:33,Saturday,501,humber loop,Emergency Services,10.0,20.0,,4626
+2024-10-26 22:56:00,2024-10-26,22:56,Saturday,504,dufferin and liberty,Collision - TTC Involved,49.0,54.0,S,4578
+2024-10-26 22:58:00,2024-10-26,22:58,Saturday,509,queens quay and york,Security,21.0,30.0,E,4429
+2024-10-26 23:15:00,2024-10-26,23:15,Saturday,505,broadview station,Cleaning - Unsanitary,10.0,20.0,W,4533
+2024-10-26 23:27:00,2024-10-26,23:27,Saturday,504,king and shaw,Operations,10.0,20.0,W,4531
+2024-10-26 23:28:00,2024-10-26,23:28,Saturday,510,spadina and front,Diversion,47.0,57.0,S,8202
+2024-10-26 23:50:00,2024-10-26,23:50,Saturday,,russell carhouse,Mechanical,0.0,0.0,,4479
+2024-10-26 23:59:00,2024-10-26,23:59,Saturday,511,bathurst and college,Cleaning - Unsanitary,10.0,50.0,S,4506
+2024-10-26 00:52:00,2024-10-26,00:52,Saturday,512,st clair and northclif,Emergency Services,0.0,0.0,E,4544
+2024-10-26 01:32:00,2024-10-26,01:32,Saturday,512,st clair and caledonia,General Delay,0.0,0.0,E,4438
+2024-10-27 02:11:00,2024-10-27,02:11,Sunday,306,coxwell and queen loop,Emergency Services,30.0,60.0,,4524
+2024-10-27 02:43:00,2024-10-27,02:43,Sunday,504,kingston road loop,Security,0.0,0.0,,4616
+2024-10-27 03:00:00,2024-10-27,03:00,Sunday,301,spadina and king,Operations,10.0,20.0,S,4518
+2024-10-27 03:06:00,2024-10-27,03:06,Sunday,503,king and spadina,Security,20.0,40.0,W,4444
+2024-10-27 03:28:00,2024-10-27,03:28,Sunday,,russell carhouse,Mechanical,0.0,0.0,,0
+2024-10-27 03:36:00,2024-10-27,03:36,Sunday,501,humber loop,Security,0.0,0.0,,8377
+2024-10-27 04:06:00,2024-10-27,04:06,Sunday,503,king and queen,Security,20.0,40.0,N,4517
+2024-10-27 05:04:00,2024-10-27,05:04,Sunday,507,lakeshore and burlingt,Held By,123.0,135.0,W,4582
+2024-10-27 05:33:00,2024-10-27,05:33,Sunday,504,queen and leslie,Security,18.0,32.0,E,4449
+2024-10-27 05:58:00,2024-10-27,05:58,Sunday,503,queen and roncesvalles,Security,0.0,0.0,W,4489
+2024-10-27 06:13:00,2024-10-27,06:13,Sunday,501,queen and abell,Mechanical,10.0,25.0,E,4588
+2024-10-27 06:22:00,2024-10-27,06:22,Sunday,512,bathurst station,Security,9.0,18.0,N,4528
+2024-10-27 06:41:00,2024-10-27,06:41,Sunday,512,bathurst station,Diversion,34.0,44.0,,4528
+2024-10-27 07:45:00,2024-10-27,07:45,Sunday,511,bathurst and richmond,Diversion,165.0,175.0,N,4623
+2024-10-27 08:26:00,2024-10-27,08:26,Sunday,501,church and richmond,Mechanical,10.0,20.0,N,4588
+2024-10-27 08:57:00,2024-10-27,08:57,Sunday,504,roncesvalles and grena,Operations,14.0,28.0,N,4564
+2024-10-27 09:13:00,2024-10-27,09:13,Sunday,501,queen and augusta,Cleaning - Unsanitary,20.0,23.0,E,4466
+2024-10-27 10:07:00,2024-10-27,10:07,Sunday,511,bathurst and niagra,Mechanical,10.0,20.0,S,4402
+2024-10-27 11:30:00,2024-10-27,11:30,Sunday,505,dundas and parliament,Rail/Switches,0.0,0.0,E,4441
+2024-10-27 11:33:00,2024-10-27,11:33,Sunday,510,spadina station,General Delay,8.0,16.0,W,8103
+2024-10-27 11:52:00,2024-10-27,11:52,Sunday,505,dundas and college,Rail/Switches,0.0,0.0,W,4597
+2024-10-27 12:27:00,2024-10-27,12:27,Sunday,504,kingston and woodbine,Diversion,23.0,33.0,W,4439
+2024-10-27 12:42:00,2024-10-27,12:42,Sunday,501,queen and leslie,Emergency Services,10.0,20.0,E,4556
+2024-10-27 12:48:00,2024-10-27,12:48,Sunday,503,queen and leslie,Diversion,0.0,0.0,E,0
+2024-10-27 12:58:00,2024-10-27,12:58,Sunday,504,dufferin gate loop,Mechanical,10.0,20.0,E,4518
+2024-10-27 13:48:00,2024-10-27,13:48,Sunday,506,dundas and landowne,Rail/Switches,0.0,0.0,E,4420
+2024-10-27 14:26:00,2024-10-27,14:26,Sunday,501,queen and greenwood,Mechanical,10.0,20.0,W,4400
+2024-10-27 15:07:00,2024-10-27,15:07,Sunday,505,dundas and sherbourne,General Delay,0.0,0.0,,0
+2024-10-27 15:46:00,2024-10-27,15:46,Sunday,512,gunns and tarragona,Cleaning - Unsanitary,8.0,16.0,W,4508
+2024-10-27 16:49:00,2024-10-27,16:49,Sunday,510,cne loop,Mechanical,5.0,10.0,E,3354
+2024-10-27 18:38:00,2024-10-27,18:38,Sunday,506,college and ossington,Cleaning - Unsanitary,10.0,20.0,E,4548
+2024-10-27 20:05:00,2024-10-27,20:05,Sunday,504,roncesvalles and mario,Mechanical,10.0,20.0,S,4586
+2024-10-27 20:24:00,2024-10-27,20:24,Sunday,506,college and lansdowne,Emergency Services,23.0,33.0,E,4594
+2024-10-27 20:47:00,2024-10-27,20:47,Sunday,505,broadview station,Emergency Services,10.0,20.0,E,4438
+2024-10-27 21:34:00,2024-10-27,21:34,Sunday,501,king and spadina,Operations,10.0,20.0,W,4557
+2024-10-27 21:36:00,2024-10-27,21:36,Sunday,504,king and spadina,Diversion,24.0,34.0,W,4523
+2024-10-27 21:36:00,2024-10-27,21:36,Sunday,504,king and peter,Diversion,24.0,34.0,W,4523
+2024-10-27 22:02:00,2024-10-27,22:02,Sunday,505,college and augusta,Collision - TTC Involved,10.0,20.0,E,4519
+2024-10-27 22:02:00,2024-10-27,22:02,Sunday,506,dundas and sorauren,Diversion,10.0,20.0,E,4420
+2024-10-27 22:06:00,2024-10-27,22:06,Sunday,506,college and augusta,Diversion,10.0,20.0,E,4420
+2024-10-27 23:47:00,2024-10-27,23:47,Sunday,505,broadview station,Cleaning - Unsanitary,10.0,20.0,W,4428
+2024-10-27 01:09:00,2024-10-27,01:09,Sunday,505,dundas and river,Operations,10.0,20.0,W,4430
+2024-10-28 02:12:00,2024-10-28,02:12,Monday,504,dufferin gate,Security,19.0,29.0,W,4529
+2024-10-28 02:36:00,2024-10-28,02:36,Monday,306,gerrard and coxwell,Cleaning - Unsanitary,60.0,75.0,E,4590
+2024-10-28 02:46:00,2024-10-28,02:46,Monday,510,spadina and dundas,Collision - TTC Involved,0.0,0.0,S,3328
+2024-10-28 03:28:00,2024-10-28,03:28,Monday,504,king and queen,Security,0.0,0.0,W,4543
+2024-10-28 05:36:00,2024-10-28,05:36,Monday,507,long branch loop,Mechanical,10.0,20.0,E,4573
+2024-10-28 05:57:00,2024-10-28,05:57,Monday,504,king and jarvis,Security,14.0,24.0,W,4446
+2024-10-28 06:04:00,2024-10-28,06:04,Monday,504,king and jarvis,Security,10.0,20.0,W,4446
+2024-10-28 07:55:00,2024-10-28,07:55,Monday,506,college and yonge,Cleaning - Unsanitary,10.0,20.0,W,4412
+2024-10-28 08:00:00,2024-10-28,08:00,Monday,508,queen and roncesvalles,General Delay,20.0,40.0,W,4550
+2024-10-28 09:29:00,2024-10-28,09:29,Monday,501,queen and kingston rd,Collision - TTC Involved,10.0,20.0,W,4408
+2024-10-28 09:30:00,2024-10-28,09:30,Monday,509,queens quay loop,Cleaning - Unsanitary,7.0,14.0,W,4616
+2024-10-28 10:35:00,2024-10-28,10:35,Monday,503,bingham loop,Cleaning - Unsanitary,10.0,20.0,W,4453
+2024-10-28 11:55:00,2024-10-28,11:55,Monday,504,king and sudbury,Cleaning - Unsanitary,10.0,20.0,E,4562
+2024-10-28 13:40:00,2024-10-28,13:40,Monday,501,queen and roncesvalles,Investigation,20.0,29.0,W,4469
+2024-10-28 13:58:00,2024-10-28,13:58,Monday,501,duffering and king,Collision - TTC Involved,9.0,18.0,N,4492
+2024-10-28 14:11:00,2024-10-28,14:11,Monday,504,dufferin and king,Diversion,16.0,26.0,N,0
+2024-10-28 14:41:00,2024-10-28,14:41,Monday,505,broadview and withrow,Mechanical,10.0,20.0,N,4465
+2024-10-28 15:04:00,2024-10-28,15:04,Monday,505,dundas and spadina,Operations,12.0,22.0,E,4524
+2024-10-28 16:45:00,2024-10-28,16:45,Monday,512,st clair and oakwood,Mechanical,8.0,16.0,N,4526
+2024-10-28 17:17:00,2024-10-28,17:17,Monday,505,dundas and munro,Operations,10.0,20.0,W,4470
+2024-10-28 17:42:00,2024-10-28,17:42,Monday,506,main street station,Emergency Services,20.0,30.0,W,4467
+2024-10-28 17:53:00,2024-10-28,17:53,Monday,505,dundas and spadina,Diversion,14.0,24.0,W,4470
+2024-10-28 18:50:00,2024-10-28,18:50,Monday,505,dundas and spadina,Cleaning - Unsanitary,10.0,20.0,W,4537
+2024-10-28 19:08:00,2024-10-28,19:08,Monday,505,broadview station,Cleaning - Unsanitary,10.0,20.0,N,4435
+2024-10-28 19:20:00,2024-10-28,19:20,Monday,506,college and lansdowne,Operations,10.0,20.0,E,4553
+2024-10-28 20:13:00,2024-10-28,20:13,Monday,507,lakeshore and royal yo,Cleaning - Unsanitary,10.0,20.0,W,4549
+2024-10-28 22:15:00,2024-10-28,22:15,Monday,505,dundas and ontario,Security,0.0,0.0,E,4447
+2024-10-28 22:32:00,2024-10-28,22:32,Monday,511,bay and dundas,Security,0.0,0.0,N,4513
+2024-10-28 22:48:00,2024-10-28,22:48,Monday,504,cherry and front,Mechanical,67.0,77.0,E,4620
+2024-10-28 23:00:00,2024-10-28,23:00,Monday,505,dundas and university,Security,7.0,17.0,W,4533
+2024-10-28 00:17:00,2024-10-28,00:17,Monday,510,exhibition loop,Mechanical,10.0,20.0,S,3361
+2024-10-29 02:58:00,2024-10-29,02:58,Tuesday,306,gerrard and broadview,Cleaning - Unsanitary,15.0,30.0,E,4585
+2024-10-29 03:34:00,2024-10-29,03:34,Tuesday,306,howard park and parksi,Security,27.0,42.0,W,4410
+2024-10-29 03:46:00,2024-10-29,03:46,Tuesday,506,lansdowne and college,Diversion,27.0,42.0,W,4527
+2024-10-29 05:40:00,2024-10-29,05:40,Tuesday,503,sunnyside loop,Security,0.0,0.0,W,4518
+2024-10-29 05:55:00,2024-10-29,05:55,Tuesday,506,coxwell and lower gerr,Security,0.0,0.0,S,4467
+2024-10-29 06:56:00,2024-10-29,06:56,Tuesday,600,st clair and dufferin,Collision - TTC Involved,3.0,6.0,E,7245
+2024-10-29 08:46:00,2024-10-29,08:46,Tuesday,505,dundas west station,Security,10.0,20.0,,4470
+2024-10-29 08:47:00,2024-10-29,08:47,Tuesday,504,king and john,General Delay,20.0,30.0,E,4524
+2024-10-29 08:49:00,2024-10-29,08:49,Tuesday,512,st clair and oakwood,Collision - TTC Involved,3.0,6.0,W,1329
+2024-10-29 09:17:00,2024-10-29,09:17,Tuesday,512,st clair and old westo,Held By,35.0,45.0,E,4417
+2024-10-29 09:25:00,2024-10-29,09:25,Tuesday,501,humber loop,Mechanical,10.0,20.0,S,4551
+2024-10-29 10:23:00,2024-10-29,10:23,Tuesday,505,dundas and chesnut,General Delay,0.0,0.0,,0
+2024-10-29 10:30:00,2024-10-29,10:30,Tuesday,,queen west of connaugh,Overhead,0.0,0.0,W,0
+2024-10-29 10:37:00,2024-10-29,10:37,Tuesday,510,bathurst and lakeshore,Collision - TTC Involved,4.0,8.0,S,8636
+2024-10-29 11:30:00,2024-10-29,11:30,Tuesday,510,fort york and bastion,Mechanical,5.0,10.0,N,3259
+2024-10-29 11:57:00,2024-10-29,11:57,Tuesday,503,king and sumach,Cleaning - Unsanitary,10.0,20.0,S,4419
+2024-10-29 12:57:00,2024-10-29,12:57,Tuesday,510,bathurst and lakeshore,Diversion,187.0,195.0,S,8346
+2024-10-29 13:30:00,2024-10-29,13:30,Tuesday,501,queen and roncesvalles,Cleaning - Unsanitary,9.0,18.0,W,4531
+2024-10-29 16:16:00,2024-10-29,16:16,Tuesday,506,parliament and gerrard,Emergency Services,10.0,20.0,N,4573
+2024-10-29 16:44:00,2024-10-29,16:44,Tuesday,506,college and queens par,General Delay,0.0,0.0,W,4561
+2024-10-29 18:00:00,2024-10-29,18:00,Tuesday,504,king and parliament,Diversion,8.0,18.0,E,4448
+2024-10-29 20:52:00,2024-10-29,20:52,Tuesday,500,sunnyside loop,Security,0.0,0.0,,4548
+2024-10-29 23:16:00,2024-10-29,23:16,Tuesday,504,dundas west station,General Delay,13.0,23.0,E,4461
+2024-10-29 23:28:00,2024-10-29,23:28,Tuesday,511,bathurst and college,Cleaning - Unsanitary,10.0,20.0,S,4580
+2024-10-29 23:37:00,2024-10-29,23:37,Tuesday,504,spadina and king,Operations,10.0,20.0,S,4557
+2024-10-29 00:05:00,2024-10-29,00:05,Tuesday,510,charlotte and oxley,General Delay,8.0,18.0,N,8764
+2024-10-29 00:36:00,2024-10-29,00:36,Tuesday,504,king and bathurst,Held By,9.0,19.0,W,4541
+2024-10-29 01:30:00,2024-10-29,01:30,Tuesday,505,kingston loop,Security,0.0,0.0,E,4485
+2024-10-30 02:21:00,2024-10-30,02:21,Wednesday,503,queen and carroll,Mechanical,7.0,14.0,W,4439
+2024-10-30 05:38:00,2024-10-30,05:38,Wednesday,505,kingston loop inside,Security,21.0,41.0,,4618
+2024-10-30 05:55:00,2024-10-30,05:55,Wednesday,505,dundas west station,Cleaning - Unsanitary,0.0,0.0,W,4606
+2024-10-30 06:19:00,2024-10-30,06:19,Wednesday,506,lower gerrard and coxw,Emergency Services,0.0,0.0,E,4613
+2024-10-30 06:20:00,2024-10-30,06:20,Wednesday,506,queen and leslie,Emergency Services,0.0,0.0,W,4513
+2024-10-30 06:44:00,2024-10-30,06:44,Wednesday,505,dundas and ossington,Diversion,20.0,30.0,W,4549
+2024-10-30 06:57:00,2024-10-30,06:57,Wednesday,510,spadina and queen,Utilized Off Route,4.0,8.0,S,8815
+2024-10-30 07:21:00,2024-10-30,07:21,Wednesday,501,kingston loop,Security,10.0,20.0,,4543
+2024-10-30 07:50:00,2024-10-30,07:50,Wednesday,506,howard park and ronces,Emergency Services,10.0,20.0,W,4545
+2024-10-30 09:18:00,2024-10-30,09:18,Wednesday,512,st clair and landsdown,Security,0.0,0.0,E,4503
+2024-10-30 09:49:00,2024-10-30,09:49,Wednesday,505,broadview and wolfrey,Operations,10.0,20.0,S,4529
+2024-10-30 10:07:00,2024-10-30,10:07,Wednesday,501,richmond and church,Operations,9.0,18.0,W,4626
+2024-10-30 11:31:00,2024-10-30,11:31,Wednesday,503,queena and broadview,Cleaning - Unsanitary,10.0,20.0,W,4515
+2024-10-30 11:41:00,2024-10-30,11:41,Wednesday,511,bathurst and king,Held By,9.0,18.0,S,4403
+2024-10-30 11:43:00,2024-10-30,11:43,Wednesday,504,king and bathurst,Operations,10.0,20.0,S,4583
+2024-10-30 12:43:00,2024-10-30,12:43,Wednesday,506,lower gerrard and coxw,Mechanical,10.0,20.0,E,4401
+2024-10-30 12:55:00,2024-10-30,12:55,Wednesday,506,college and lansdowne,Cleaning - Unsanitary,10.0,20.0,W,4593
+2024-10-30 12:59:00,2024-10-30,12:59,Wednesday,505,dundas and lansdowne,General Delay,15.0,25.0,E,4530
+2024-10-30 16:00:00,2024-10-30,16:00,Wednesday,506,college and bathurst,General Delay,0.0,0.0,,0
+2024-10-30 16:00:00,2024-10-30,16:00,Wednesday,511,bathurst and king,General Delay,0.0,0.0,S,4405
+2024-10-30 17:17:00,2024-10-30,17:17,Wednesday,511,bathurst and lennox,Operations,0.0,0.0,N,4624
+2024-10-30 17:32:00,2024-10-30,17:32,Wednesday,504,roncesvalles division,Operations,0.0,0.0,W,4538
+2024-10-30 17:34:00,2024-10-30,17:34,Wednesday,501,gerrard and craven,Collision - TTC Involved,0.0,0.0,E,8496
+2024-10-30 21:00:00,2024-10-30,21:00,Wednesday,504,king and spadina,Operations,10.0,20.0,E,4615
+2024-10-30 21:49:00,2024-10-30,21:49,Wednesday,501,queen and spadina,Held By,72.0,82.0,E,4611
+2024-10-30 21:53:00,2024-10-30,21:53,Wednesday,504,king and emily,Collision - TTC Involved,68.0,78.0,E,4437
+2024-10-30 22:00:00,2024-10-30,22:00,Wednesday,501,king and university,Diversion,72.0,82.0,E,4511
+2024-10-30 22:19:00,2024-10-30,22:19,Wednesday,511,bathurst station,Emergency Services,9.0,18.0,,4624
+2024-10-30 22:37:00,2024-10-30,22:37,Wednesday,504,lakeshore and leslie,Operations,10.0,20.0,,4496
+2024-10-30 22:45:00,2024-10-30,22:45,Wednesday,504,king and techumseth,General Delay,0.0,0.0,,0
+2024-10-30 00:18:00,2024-10-30,00:18,Wednesday,511,bathurst station,Cleaning - Unsanitary,10.0,20.0,,4493
+2024-10-30 00:39:00,2024-10-30,00:39,Wednesday,511,fleet and strachan,Mechanical,10.0,20.0,N,4405
+2024-10-30 01:06:00,2024-10-30,01:06,Wednesday,505,grace and dundas,Emergency Services,35.0,45.0,W,4597
+2024-10-30 01:35:00,2024-10-30,01:35,Wednesday,507,lake shore and thirty,Operations,15.0,30.0,W,4599
+2024-10-31 03:05:00,2024-10-31,03:05,Thursday,504,kingston rd loop,Security,0.0,0.0,,4500
+2024-10-31 03:38:00,2024-10-31,03:38,Thursday,504,king and joe shuster,Cleaning - Unsanitary,30.0,60.0,W,4438
+2024-10-31 03:39:00,2024-10-31,03:39,Thursday,301,lakeshore and silver m,Security,11.0,26.0,W,4535
+2024-10-31 03:56:00,2024-10-31,03:56,Thursday,306,college and marguerett,Held By,11.0,26.0,W,4550
+2024-10-31 04:00:00,2024-10-31,04:00,Thursday,504,king and bathurst,Held By,10.0,40.0,E,4438
+2024-10-31 04:34:00,2024-10-31,04:34,Thursday,501,parliament and dundas,Security,0.0,0.0,S,4417
+2024-10-31 05:41:00,2024-10-31,05:41,Thursday,505,queen and leslie,Security,0.0,0.0,E,4622
+2024-10-31 05:54:00,2024-10-31,05:54,Thursday,506,college and montrose,Held By,0.0,0.0,E,4552
+2024-10-31 06:23:00,2024-10-31,06:23,Thursday,501,queen and sherbourne,Held By,10.0,20.0,W,4408
+2024-10-31 07:11:00,2024-10-31,07:11,Thursday,506,college and grace,Diversion,10.0,20.0,W,4524
+2024-10-31 07:28:00,2024-10-31,07:28,Thursday,512,st clair and vaughan,General Delay,20.0,40.0,E,4616
+2024-10-31 08:01:00,2024-10-31,08:01,Thursday,504,distillery loop,General Delay,5.0,15.0,N,4580
+2024-10-31 09:37:00,2024-10-31,09:37,Thursday,512,st clair station,Cleaning - Unsanitary,3.0,6.0,W,7109
+2024-10-31 10:18:00,2024-10-31,10:18,Thursday,504,roncesvalles yard,Operations,50.0,16.0,E,4602
+2024-10-31 10:19:00,2024-10-31,10:19,Thursday,512,st clair and glenholme,Collision - TTC Involved,3.0,6.0,W,7011
+2024-10-31 11:19:00,2024-10-31,11:19,Thursday,504,king and dufferin,Diversion,65.0,75.0,W,4595
+2024-10-31 11:21:00,2024-10-31,11:21,Thursday,600,st clair and avenue,Emergency Services,3.0,6.0,E,7329
+2024-10-31 11:42:00,2024-10-31,11:42,Thursday,512,st clair and silvertho,Collision - TTC Involved,22.0,32.0,E,4452
+2024-10-31 12:29:00,2024-10-31,12:29,Thursday,504,king and ed mirvish wa,Collision - TTC Involved,10.0,20.0,W,4470
+2024-10-31 12:41:00,2024-10-31,12:41,Thursday,501,king and john,Diversion,80.0,89.0,,4615
+2024-10-31 14:35:00,2024-10-31,14:35,Thursday,999,queen and sumach,Collision - TTC Involved,0.0,0.0,E,8788
+2024-10-31 14:59:00,2024-10-31,14:59,Thursday,510,spadina and adelaide,Mechanical,8.0,16.0,N,3362
+2024-10-31 16:35:00,2024-10-31,16:35,Thursday,512,bathurst and vaughan,Collision - TTC Involved,8.0,16.0,S,4493
+2024-10-31 16:39:00,2024-10-31,16:39,Thursday,505,broadview station,Cleaning - Unsanitary,10.0,20.0,W,4430
+2024-10-31 17:14:00,2024-10-31,17:14,Thursday,504,king and parliament,Emergency Services,10.0,20.0,E,4599
+2024-10-31 17:22:00,2024-10-31,17:22,Thursday,503,king and parliament,Diversion,37.0,47.0,E,4611
+2024-10-31 17:35:00,2024-10-31,17:35,Thursday,504,queen and broadview,Operations,10.0,20.0,W,4427
+2024-10-31 18:26:00,2024-10-31,18:26,Thursday,506,college and bathurst,Collision - TTC Involved,85.0,95.0,E,4440
+2024-10-31 19:04:00,2024-10-31,19:04,Thursday,507,lakeshore and long bra,Diversion,22.0,32.0,,0
+2024-10-31 21:55:00,2024-10-31,21:55,Thursday,505,dundas and yonge,Mechanical,27.0,37.0,W,4451
+2024-10-31 22:22:00,2024-10-31,22:22,Thursday,506,carlton and church,General Delay,0.0,0.0,,4589
+2024-10-31 22:46:00,2024-10-31,22:46,Thursday,507,kipling loop,Security,0.0,0.0,,4584
+2024-10-31 23:10:00,2024-10-31,23:10,Thursday,503,kingston loop,Security,10.0,20.0,,4491
+2024-10-31 00:08:00,2024-10-31,00:08,Thursday,501,neville park loop,Emergency Services,38.0,48.0,E,4554
+2024-10-31 00:12:00,2024-10-31,00:12,Thursday,507,queen and kingston,Diversion,38.0,48.0,E,4536
+2024-10-31 01:00:00,2024-10-31,01:00,Thursday,511,bathurst and dundas,Cleaning - Unsanitary,10.0,20.0,S,4525
